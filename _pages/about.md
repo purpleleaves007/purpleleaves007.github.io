@@ -50,6 +50,7 @@ Yu Gu, **Xiang Zhang\***, Yantong Wang, Meng Wang, Huan Yan, Yusheng Ji, Zhi Liu
 </div>
 
 ## 🎙 Journals
+- [Target-Oriented WiFi Sensing for Respiratory Healthcare: from Indiscriminate Perception to In-Area Sensing](https://ieeexplore.ieee.org/document/10804189), Meng Wang, Jinyang Huang\*, **Xiang Zhang\***, Zhi Liu, Meng Li, Peng Zhao, Huan Yan, Xiao Sun, Mianxiong Dong, **IEEE Network 2024** `SCI Q1, IF = 8.5`
 - [Wi-Pulmo: Commodity WiFi Can Capture Your Pulmonary Function Without Mouth Clinging](https://ieeexplore.ieee.org/abstract/document/10699348), Peng Zhao, Jinyang Huang\*, **Xiang Zhang\***, Zhi Liu, Huan Yan, Meng Wang, Guohang Zhuang, Yutong Guo, Xiao Sun, Meng Li, **IEEE IOTJ 2024** `SCI Q1, IF = 8.2`
 - [Keystrokesniffer: An off-the-shelf smartphone can eavesdrop on your privacy from anywhere](https://ieeexplore.ieee.org/abstract/document/10587029), Jinyang Huang, Jia-Xuan Bai, **Xiang Zhang\***, Zhi Liu, Yuanhao Feng, Jianchun Liu, Xiao Sun, Mianxiong Dong, Meng Li, **IEEE TIFS 2024** `CCF A`
 - [Wital: A COTS WiFi devices based vital signs monitoring system using NLOS sensing model](https://ieeexplore.ieee.org/abstract/document/10105652), **Xiang Zhang**, Yu Gu, Huan Yan, Yantong Wang, Mianxiong Dong, Kaoru Ota, Fuji Ren, Yusheng Ji, **IEEE THMS 2023** `CCF B`
