@@ -50,7 +50,7 @@ Yu Gu, **Xiang Zhang\***, Yantong Wang, Meng Wang, Huan Yan, Yusheng Ji, Zhi Liu
 </div>
 
 ## 🎙 Journals
-- [Wi-Pulmo: Commodity WiFi Can Capture Your Pulmonary Function Without Mouth Clinging](https://ieeexplore.ieee.org/abstract/document/10699348), Peng Zhao, Jinyang Huang\*, **Xiang Zhang\***, Zhi Liu, Huan Yan, Meng Wang, Guohang Zhuang, Yutong Guo, Xiao Sun, Meng Li, **IEEE IOTJ 2024** <div class="badge">SCI Q1, IF = 8.2</div>
+- [Wi-Pulmo: Commodity WiFi Can Capture Your Pulmonary Function Without Mouth Clinging](https://ieeexplore.ieee.org/abstract/document/10699348), Peng Zhao, Jinyang Huang\*, **Xiang Zhang\***, Zhi Liu, Huan Yan, Meng Wang, Guohang Zhuang, Yutong Guo, Xiao Sun, Meng Li, **IEEE IOTJ 2024** <code class="language-plaintext highlighter-rouge">SCI Q1, IF = 8.2</code>
 - [Keystrokesniffer: An off-the-shelf smartphone can eavesdrop on your privacy from anywhere](https://ieeexplore.ieee.org/abstract/document/10587029), Jinyang Huang, Jia-Xuan Bai, **Xiang Zhang\***, Zhi Liu, Yuanhao Feng, Jianchun Liu, Xiao Sun, Mianxiong Dong, Meng Li, **IEEE TIFS 2024**
 - [Wital: A COTS WiFi devices based vital signs monitoring system using NLOS sensing model](https://ieeexplore.ieee.org/abstract/document/10105652), **Xiang Zhang**, Yu Gu, Huan Yan, Yantong Wang, Mianxiong Dong, Kaoru Ota, Fuji Ren, Yusheng Ji, **IEEE THMS 2023**
 - [WiFE: WiFi and vision based unobtrusive emotion recognition via gesture and facial expression](https://ieeexplore.ieee.org/abstract/document/10149418), Yu Gu, **Xiang Zhang\***, Huan Yan, Jingyang Huang, Zhi Liu, Mianxiong Dong, Fuji Ren, **IEEE TAFFC 2023**
