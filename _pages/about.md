@@ -24,7 +24,7 @@ My research interest includes wireless sensing, IOT security and affective compu
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 One Paper about WiFi-based Respiratory Healthcare accepted by IEEE Network.
-- *2024.10*: &nbsp;🎉🎉 It's an honor to become the recipient of the IEEE HITC Distinguished Phd Dissertation Award.
+- *2024.11*: &nbsp;🎉🎉 It's an honor to become the recipient of the IEEE HITC Distinguished Phd Dissertation Award.
 - *2024.10*: &nbsp;🎉🎉 One Paper about WiFi-based Pulmonary Function Testing accepted by IEEE IOTJ.
 - *2024.10*: &nbsp;🎉🎉 It's an honor to become the recipient of the IEEE SMC Society Andrew P. Sage Best Transactions Paper Award.
 - *2024.09*: &nbsp;🎉🎉One Demo Paper about WiFi-based Malicious Camera Detection accepted by Mobicom.
