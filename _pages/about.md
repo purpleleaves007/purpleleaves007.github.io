@@ -19,7 +19,7 @@ redirect_from:
 
 I work at the School of Cyber Science and Technology,  University of Science and Technology of China as postdoc now in Hefei, China. I received the B.E. degree from Hefei University of Technology, China, in 2017, and his D.E. degree from the same university in 2023, supervised by Prof.[Meng Wang](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm) and Prof.[Yu Gu](https://www.scse.uestc.edu.cn/info/1081/15382.htm). During my doctoral period, I receive a CSC scholarship, and I am guided by Prof.[Yusheng Ji](https://klab.nii.ac.jp/) from National Institute of Informatics, Japan.
 
-My research interest includes wireless sensing, IOT security and affective computing. I have published 20+ papers <a href='https://scholar.google.com/citations?user=mz4NUCAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international conferences and journals. I'm the recipient of the IEEE SMC Society Andrew P. Sage Best Transactions Paper Award and the IEEE HITC Distinguished Phd Dissertation Award.
+My research interest includes wireless sensing, IOT security and affective computing. I have published 20+ papers <a href='https://scholar.google.com/citations?user=mz4NUCAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=message"></a> at the top international conferences and journals. I'm the recipient of the IEEE SMC Society Andrew P. Sage Best Transactions Paper Award and the IEEE HITC Distinguished Phd Dissertation Award.
 
 
 # 🔥 News
