@@ -23,6 +23,7 @@ My research interest includes wireless sensing, IOT security and affective compu
 
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉🎉 One Paper about WiFi-based Gesture Recognition accepted by IEEE THMS.
 - *2024.12*: &nbsp;🎉🎉 One Paper about WiFi-based Respiratory Healthcare accepted by IEEE Network.
 - *2024.11*: &nbsp;🎉🎉 It's an honor to become the recipient of the IEEE HITC Distinguished Phd Dissertation Award.
 - *2024.10*: &nbsp;🎉🎉 One Paper about WiFi-based Pulmonary Function Testing accepted by IEEE IOTJ.
@@ -50,6 +51,7 @@ Yu Gu, **Xiang Zhang\***, Yantong Wang, Meng Wang, Huan Yan, Yusheng Ji, Zhi Liu
 </div>
 
 ## 🎙 Journals
+- [WiOpen: A Robust Wi-Fi-based Open-set Gesture Recognition Framework](https://ieeexplore.ieee.org/abstract/document/10105652), **Xiang Zhang**,	Jinyang Huang, Huan Yan, Yuanhao Feng, Peng Zhao, Guohang Zhuang, Zhi Liu, Bin Liu, **IEEE THMS 2025** `CCF B, SCI Q3, IF = 3.5`
 - [Target-Oriented WiFi Sensing for Respiratory Healthcare: from Indiscriminate Perception to In-Area Sensing](https://ieeexplore.ieee.org/document/10804189), Meng Wang, Jinyang Huang\*, **Xiang Zhang\***, Zhi Liu, Meng Li, Peng Zhao, Huan Yan, Xiao Sun, Mianxiong Dong, **IEEE Network 2024** `SCI Q2, IF = 8.5`
 - [Wi-Pulmo: Commodity WiFi Can Capture Your Pulmonary Function Without Mouth Clinging](https://ieeexplore.ieee.org/abstract/document/10699348), Peng Zhao, Jinyang Huang\*, **Xiang Zhang\***, Zhi Liu, Huan Yan, Meng Wang, Guohang Zhuang, Yutong Guo, Xiao Sun, Meng Li, **IEEE IOTJ 2024** `CCF C, SCI Q1, IF = 8.2`
 - [Keystrokesniffer: An off-the-shelf smartphone can eavesdrop on your privacy from anywhere](https://ieeexplore.ieee.org/abstract/document/10587029), Jinyang Huang, Jia-Xuan Bai, **Xiang Zhang\***, Zhi Liu, Yuanhao Feng, Jianchun Liu, Xiao Sun, Mianxiong Dong, Meng Li, **IEEE TIFS 2024** `CCF A, SCI Q1, IF = 6.3`
