@@ -23,6 +23,7 @@ My research interest includes wireless sensing, IOT security and affective compu
 
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 Invited to serve as a TPC member for IEEE Globecom 2025.
 - *2025.01*: &nbsp;🎉🎉 One Paper about WiFi-based Gesture Recognition accepted by IEEE THMS.
 - *2024.12*: &nbsp;🎉🎉 One Paper about WiFi-based Respiratory Healthcare accepted by IEEE Network.
 - *2024.11*: &nbsp;🎉🎉 It's an honor to become the recipient of the IEEE HITC Distinguished Phd Dissertation Award.
@@ -88,11 +89,11 @@ Yu Gu, **Xiang Zhang\***, Yantong Wang, Meng Wang, Huan Yan, Yusheng Ji, Zhi Liu
 - *2013.09 - 2017.06*, Undergraduate, Hefei University of Technology, Hefei, China.
 
 # 🧑‍🎨 TPC Member and Reviewers
-- ACM Multimedia 2024 (MM 2024, TPC)
-- 2023 IEEE Global Communications Conference (GLOBECOM 2023, TPC)
-- 2023 IEEE International Conference on Multimedia and Expo (ICME 2023, TPC)
-- 2024 ACM Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT 2024)
-- 2025 Annual Meeting of the Cognitive Science Society (CogSci 2025)
+- ACM Multimedia(MM 2024, TPC)
+- IEEE Global Communications Conference (GLOBECOM 2023,2024,2025, TPC)
+- IEEE International Conference on Multimedia and Expo (ICME 2023,2025)
+- ACM Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT 2024)
+- Annual Meeting of the Cognitive Science Society (CogSci 2025)
 - IEEE Transactions on Human-Machine Systems
 - IEEE Transactions on Multimedia
 - IEEE Wireless Communication Magazine
