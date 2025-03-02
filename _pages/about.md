@@ -101,3 +101,4 @@ Yu Gu, **Xiang Zhang\***, Yantong Wang, Meng Wang, Huan Yan, Yusheng Ji, Zhi Liu
 - IEEE Transactions on Neural Networks and Learning Systems
 - ACM Transactions on Embedded Computing Systems
 - IEEE Transactions on Network and Service Management
+- IEEE Transactions on Artificial Intelligence
