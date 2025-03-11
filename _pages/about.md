@@ -23,14 +23,15 @@ My research interest includes wireless sensing, IOT security and affective compu
 
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉🎉 One Paper about Noise Robust Facial Expression Recognition accepted by IEEE TAFFC.
+- *2025.03*: &nbsp;🎉🎉 One Paper about WiFi-based Hidden Camera Localization accepted by **IEEE S&P**.
+- *2025.03*: &nbsp;🎉🎉 One Paper about Noise Robust Facial Expression Recognition accepted by **IEEE TAFFC**.
 - *2025.02*: &nbsp;🎉🎉 Invited to serve as a TPC member for IEEE Globecom 2025.
-- *2025.01*: &nbsp;🎉🎉 One Paper about WiFi-based Gesture Recognition accepted by IEEE THMS.
+- *2025.01*: &nbsp;🎉🎉 One Paper about WiFi-based Gesture Recognition accepted by **IEEE THMS**.
 - *2024.12*: &nbsp;🎉🎉 One Paper about WiFi-based Respiratory Healthcare accepted by IEEE Network.
-- *2024.11*: &nbsp;🎉🎉 It's an honor to become the recipient of the IEEE HITC Distinguished Phd Dissertation Award.
+- *2024.11*: &nbsp;🎉🎉 It's an honor to become the recipient of the **IEEE HITC Distinguished Phd Dissertation Award**.
 - *2024.10*: &nbsp;🎉🎉 One Paper about WiFi-based Pulmonary Function Testing accepted by IEEE IOTJ.
-- *2024.10*: &nbsp;🎉🎉 It's an honor to become the recipient of the IEEE SMC Society Andrew P. Sage Best Transactions Paper Award.
-- *2024.09*: &nbsp;🎉🎉One Demo Paper about WiFi-based Malicious Camera Detection accepted by Mobicom.
+- *2024.10*: &nbsp;🎉🎉 It's an honor to become the recipient of the **IEEE SMC Society Andrew P. Sage Best Transactions Paper Award**.
+- *2024.09*: &nbsp;🎉🎉One Demo Paper about WiFi-based Malicious Camera Detection accepted by **ACM Mobicom**.
 
 # 📝 Publications 
 
@@ -69,6 +70,7 @@ Yu Gu, **Xiang Zhang\***, Yantong Wang, Meng Wang, Huan Yan, Yusheng Ji, Zhi Liu
 - [BeSense: Leveraging WiFi channel data and computational intelligence for behavior analysis](https://ieeexplore.ieee.org/abstract/document/8870275),Yu Gu, **Xiang Zhang**, Zhi Liu, Fuji Ren, **IEEE CIM 2019** `SCI Q1, IF = 10.3`
   
 ## 📚 Conferences
+- CamLoPa: A Hidden Wireless Camera Localization Framework via Signal Propagation Path Analysis, **Xiang Zhang**, Jie Zhang, Zehus Ma, Jinyang Huang, Meng Li, Huan Yan, Peng Zhao, Zijian Zhang, Bin Liu, Qing Guo, Tianwei Zhang, and Nenghai Yu, Proc. 46th IEEE Symposium on Security and Privacy **IEEE S&P**, 2025, Accepted. `CCF A, Big Four!`
 - [Hidden WiFi Camera Localization via Signal Propagation Path Analysis](https://dl.acm.org/doi/abs/10.1145/3636534.3698834), **Xiang Zhang**, Zehua Ma, Jinyang Huang, Huan Yan, Meng Li, Zhi Liu, Bin Liu, **ACM Mobicom 2024**. `CCF A`
 - [FacialPulse: An Efficient RNN-based Depression Detection via Temporal Facial Landmarks](https://dl.acm.org/doi/abs/10.1145/3664647.3681546), Ruiqi Wang, Jinyang Huang, Jie Zhang, Xin Liu, **Xiang Zhang**, Zhi Liu, Peng Zhao, Sigui Chen, Xiao Sun, **ACM MM 2024**. `CCF A`
 - [DM-NAI: Dynamic Information Diffusion Model Incorporating Non-Adjacent Node Interaction](https://ieeexplore.ieee.org/abstract/document/10622159), Xinyu Li, Jinyang Huang\*, **Xiang Zhang\***, Peng Zhao, Meng Wang, Guohang Zhuang, Huan Yan, Xiao Sun, **IEEE ICC 2024**. `CCF C`
