@@ -35,11 +35,13 @@ My research interest includes wireless sensing, IOT security and affective compu
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mobicom 2024</div><img src='images/CamLoPA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mobicom 2024, S&P2025</div><img src='images/CamLoPA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Hidden WiFi Camera Localization via Signal Propagation Path Analysis](https://dl.acm.org/doi/abs/10.1145/3636534.3698834) 
 **Xiang Zhang**, Zehua Ma, Jinyang Huang, Huan Yan, Meng Li, Zhi Liu, Bin Liu, **ACM Mobicom 2024**.
+
+CamLoPa: A Hidden Wireless Camera Localization Framework via Signal Propagation Path Analysis, **Xiang Zhang**, Jie Zhang, Zehus Ma, Jinyang Huang, Meng Li, Huan Yan, Peng Zhao, Zijian Zhang, Bin Liu, Qing Guo, Tianwei Zhang, and Nenghai Yu, Proc. 46th IEEE Symposium on Security and Privacy **IEEE S&P 2025**. 
 
 </div>
 </div>
