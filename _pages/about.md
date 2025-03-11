@@ -39,9 +39,12 @@ My research interest includes wireless sensing, IOT security and affective compu
 <div class='paper-box-text' markdown="1">
 
 [Hidden WiFi Camera Localization via Signal Propagation Path Analysis](https://dl.acm.org/doi/abs/10.1145/3636534.3698834) 
+
 **Xiang Zhang**, Zehua Ma, Jinyang Huang, Huan Yan, Meng Li, Zhi Liu, Bin Liu, **ACM Mobicom 2024**.
 
-CamLoPa: A Hidden Wireless Camera Localization Framework via Signal Propagation Path Analysis, **Xiang Zhang**, Jie Zhang, Zehus Ma, Jinyang Huang, Meng Li, Huan Yan, Peng Zhao, Zijian Zhang, Bin Liu, Qing Guo, Tianwei Zhang, and Nenghai Yu, Proc. 46th IEEE Symposium on Security and Privacy **IEEE S&P 2025**. 
+CamLoPa: A Hidden Wireless Camera Localization Framework via Signal Propagation Path Analysis, 
+
+**Xiang Zhang**, Jie Zhang, Zehus Ma, Jinyang Huang, Meng Li, Huan Yan, Peng Zhao, Zijian Zhang, Bin Liu, Qing Guo, Tianwei Zhang, and Nenghai Yu, Proc. 46th IEEE Symposium on Security and Privacy **IEEE S&P 2025**. 
 
 </div>
 </div>
@@ -50,6 +53,7 @@ CamLoPa: A Hidden Wireless Camera Localization Framework via Signal Propagation 
 <div class='paper-box-text' markdown="1">
 
 [WiGRUNT: WiFi-enabled gesture recognition using dual-attention network](https://ieeexplore.ieee.org/abstract/document/9759238) 
+
 Yu Gu, **Xiang Zhang\***, Yantong Wang, Meng Wang, Huan Yan, Yusheng Ji, Zhi Liu, Jianhua Li, Mianxiong Dong, **IEEE THMS 2022**.
 
 </div>
