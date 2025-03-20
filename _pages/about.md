@@ -23,7 +23,7 @@ My research interest includes wireless sensing, IOT security and affective compu
 
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉🎉 One Paper about WiFi-based Hidden Camera Localization accepted by **IEEE S&P**.
+- *2025.03*: &nbsp;🎉🎉 One Paper about WiFi-based Hidden Camera Localization accepted by **IEEE S&P 2025**.
 - *2025.03*: &nbsp;🎉🎉 One Paper about Noise Robust Facial Expression Recognition accepted by **IEEE TAFFC**.
 - *2025.02*: &nbsp;🎉🎉 Invited to serve as a TPC member for IEEE Globecom 2025.
 - *2025.01*: &nbsp;🎉🎉 One Paper about WiFi-based Gesture Recognition accepted by **IEEE THMS**.
@@ -44,7 +44,7 @@ My research interest includes wireless sensing, IOT security and affective compu
 
 CamLoPa: A Hidden Wireless Camera Localization Framework via Signal Propagation Path Analysis, 
 
-**Xiang Zhang**, Jie Zhang, Zehus Ma, Jinyang Huang, Meng Li, Huan Yan, Peng Zhao, Zijian Zhang, Bin Liu, Qing Guo, Tianwei Zhang, and Nenghai Yu, Proc. 46th IEEE Symposium on Security and Privacy **IEEE S&P 2025**. 
+**Xiang Zhang**, Jie Zhang, Zehus Ma, Jinyang Huang, Meng Li, Huan Yan, Peng Zhao, Zijian Zhang, Bin Liu, Qing Guo, Tianwei Zhang, and Nenghai Yu, **IEEE S&P 2025**. 
 
 </div>
 </div>
@@ -60,15 +60,15 @@ Yu Gu, **Xiang Zhang\***, Yantong Wang, Meng Wang, Huan Yan, Yusheng Ji, Zhi Liu
 </div>
 
 ## 🎙 Journals
-- [ReSup: Reliable Label Noise Suppression for Facial Expression Recognition](https://ieeexplore.ieee.org/document/10916982), **Xiang Zhang**,	Yan Lu, Huan Yan, Jinyang Huang, Yu Gu, Yusheng Ji, Zhi Liu, Bin Liu, **IEEE TAFFC 2025** `CCF B, SCI Q2, IF = 9.6`
+- [ReSup: Reliable Label Noise Suppression for Facial Expression Recognition](https://ieeexplore.ieee.org/document/10916982), **Xiang Zhang**,	Yan Lu, Huan Yan, Jinyang Huang, Yu Gu, Yusheng Ji, Zhi Liu, Bin Liu, **IEEE TAFFC 2025** `CCF B, SCI Q1, IF = 9.6`
 - [WiOpen: A Robust Wi-Fi-based Open-set Gesture Recognition Framework](https://ieeexplore.ieee.org/document/10899398), **Xiang Zhang**,	Jinyang Huang, Huan Yan, Yuanhao Feng, Peng Zhao, Guohang Zhuang, Zhi Liu, Bin Liu, **IEEE THMS 2025** `CCF B, SCI Q3, IF = 3.5`
-- [Target-Oriented WiFi Sensing for Respiratory Healthcare: from Indiscriminate Perception to In-Area Sensing](https://ieeexplore.ieee.org/document/10804189), Meng Wang, Jinyang Huang\*, **Xiang Zhang\***, Zhi Liu, Meng Li, Peng Zhao, Huan Yan, Xiao Sun, Mianxiong Dong, **IEEE Network 2024** `SCI Q2, IF = 8.5`
-- [Wi-Pulmo: Commodity WiFi Can Capture Your Pulmonary Function Without Mouth Clinging](https://ieeexplore.ieee.org/abstract/document/10699348), Peng Zhao, Jinyang Huang\*, **Xiang Zhang\***, Zhi Liu, Huan Yan, Meng Wang, Guohang Zhuang, Yutong Guo, Xiao Sun, Meng Li, **IEEE IOTJ 2024** `CCF C, SCI Q1, IF = 8.2`
+- [Target-Oriented WiFi Sensing for Respiratory Healthcare: from Indiscriminate Perception to In-Area Sensing](https://ieeexplore.ieee.org/document/10804189), Meng Wang, Jinyang Huang\*, **Xiang Zhang\***, Zhi Liu, Meng Li, Peng Zhao, Huan Yan, Xiao Sun, Mianxiong Dong, **IEEE Network 2024** `SCI Q3, IF = 8.5`
+- [Wi-Pulmo: Commodity WiFi Can Capture Your Pulmonary Function Without Mouth Clinging](https://ieeexplore.ieee.org/abstract/document/10699348), Peng Zhao, Jinyang Huang\*, **Xiang Zhang\***, Zhi Liu, Huan Yan, Meng Wang, Guohang Zhuang, Yutong Guo, Xiao Sun, Meng Li, **IEEE IOTJ 2024** `CCF C, SCI Q2, IF = 8.2`
 - [Keystrokesniffer: An off-the-shelf smartphone can eavesdrop on your privacy from anywhere](https://ieeexplore.ieee.org/abstract/document/10587029), Jinyang Huang, Jia-Xuan Bai, **Xiang Zhang\***, Zhi Liu, Yuanhao Feng, Jianchun Liu, Xiao Sun, Mianxiong Dong, Meng Li, **IEEE TIFS 2024** `CCF A, SCI Q1, IF = 6.3`
 - [Wital: A COTS WiFi devices based vital signs monitoring system using NLOS sensing model](https://ieeexplore.ieee.org/abstract/document/10105652), **Xiang Zhang**, Yu Gu, Huan Yan, Yantong Wang, Mianxiong Dong, Kaoru Ota, Fuji Ren, Yusheng Ji, **IEEE THMS 2023** `CCF B, SCI Q3, IF = 3.5`
-- [WiFE: WiFi and vision based unobtrusive emotion recognition via gesture and facial expression](https://ieeexplore.ieee.org/abstract/document/10149418), Yu Gu, **Xiang Zhang\***, Huan Yan, Jingyang Huang, Zhi Liu, Mianxiong Dong, Fuji Ren, **IEEE TAFFC 2023** `CCF B, SCI Q2, IF = 9.6`
-- [Phyfinatt: An undetectable attack framework against phy layer fingerprint-based wifi authentication](https://ieeexplore.ieee.org/abstract/document/10339891), Jinyang Huang, Bin Liu, Chenglin Miao, **Xiang Zhang**, Jianchun Liu, Lu Su, Zhi Liu, Yu Gu, **IEEE TMC 2023** `CCF A, SCI Q2, IF = 7.7`
-- [Attention-based gesture recognition using commodity wifi devicesn](https://ieeexplore.ieee.org/abstract/document/10090421), Yu Gu, Huan Yan, **Xiang Zhang**, Yantong Wang, Jinyang Huang, Yusheng Ji, Fuji Ren, **IEEE Sensors Journal 2023** `SCI Q2, IF = 4.3`
+- [WiFE: WiFi and vision based unobtrusive emotion recognition via gesture and facial expression](https://ieeexplore.ieee.org/abstract/document/10149418), Yu Gu, **Xiang Zhang\***, Huan Yan, Jingyang Huang, Zhi Liu, Mianxiong Dong, Fuji Ren, **IEEE TAFFC 2023** `CCF B, SCI Q1, IF = 9.6`
+- [Phyfinatt: An undetectable attack framework against phy layer fingerprint-based wifi authentication](https://ieeexplore.ieee.org/abstract/document/10339891), Jinyang Huang, Bin Liu, Chenglin Miao, **Xiang Zhang**, Jianchun Liu, Lu Su, Zhi Liu, Yu Gu, **IEEE TMC 2023** `CCF A, SCI Q1, IF = 7.7`
+- [Attention-based gesture recognition using commodity wifi devicesn](https://ieeexplore.ieee.org/abstract/document/10090421), Yu Gu, Huan Yan, **Xiang Zhang**, Yantong Wang, Jinyang Huang, Yusheng Ji, Fuji Ren, **IEEE Sensors Journal 2023** `SCI Q3, IF = 4.3`
 - [WiGRUNT: WiFi-enabled gesture recognition using dual-attention network](https://ieeexplore.ieee.org/abstract/document/9759238), Yu Gu, **Xiang Zhang\***, Yantong Wang, Meng Wang, Huan Yan, Yusheng Ji, Zhi Liu, Jianhua Li, Mianxiong Dong, **IEEE THMS 2022, Best Transactions Paper Award** `CCF B, SCI Q3, IF = 3.5`
 - [Toward facial expression recognition in the wild via noise-tolerant network](https://ieeexplore.ieee.org/abstract/document/9941139),Yu Gu, Huan Yan, **Xiang Zhang**, Yantong Wang, Yusheng Ji, Fuji Ren, **IEEE TCSVT 2022** `CCF B, SCI Q1, IF = 8.3`
 - [3-d facial expression recognition via attention-based multichannel data fusion network](https://ieeexplore.ieee.org/abstract/document/9606672),Yu Gu, Huan Yan, **Xiang Zhang**, Zhi Liu, Fuji Ren, **IEEE TIM 2021** `SCI Q2, IF = 5.6`
@@ -76,9 +76,9 @@ Yu Gu, **Xiang Zhang\***, Yantong Wang, Meng Wang, Huan Yan, Yusheng Ji, Zhi Liu
 - [BeSense: Leveraging WiFi channel data and computational intelligence for behavior analysis](https://ieeexplore.ieee.org/abstract/document/8870275),Yu Gu, **Xiang Zhang**, Zhi Liu, Fuji Ren, **IEEE CIM 2019** `SCI Q1, IF = 10.3`
   
 ## 📚 Conferences
-- CamLoPa: A Hidden Wireless Camera Localization Framework via Signal Propagation Path Analysis, **Xiang Zhang**, Jie Zhang, Zehus Ma, Jinyang Huang, Meng Li, Huan Yan, Peng Zhao, Zijian Zhang, Bin Liu, Qing Guo, Tianwei Zhang, and Nenghai Yu, Proc. 46th IEEE Symposium on Security and Privacy **IEEE S&P**, 2025, Accepted. `CCF A, Big Four!`
+- CamLoPa: A Hidden Wireless Camera Localization Framework via Signal Propagation Path Analysis, **Xiang Zhang**, Jie Zhang, Zehus Ma, Jinyang Huang, Meng Li, Huan Yan, Peng Zhao, Zijian Zhang, Bin Liu, Qing Guo, Tianwei Zhang, and Nenghai Yu, Proc. 46th IEEE Symposium on Security and Privacy **IEEE S&P**, 2025, Accepted. `CCF A (257/1740=14.8%)`
 - [Hidden WiFi Camera Localization via Signal Propagation Path Analysis](https://dl.acm.org/doi/abs/10.1145/3636534.3698834), **Xiang Zhang**, Zehua Ma, Jinyang Huang, Huan Yan, Meng Li, Zhi Liu, Bin Liu, **ACM Mobicom 2024**. `CCF A`
-- [FacialPulse: An Efficient RNN-based Depression Detection via Temporal Facial Landmarks](https://dl.acm.org/doi/abs/10.1145/3664647.3681546), Ruiqi Wang, Jinyang Huang, Jie Zhang, Xin Liu, **Xiang Zhang**, Zhi Liu, Peng Zhao, Sigui Chen, Xiao Sun, **ACM MM 2024**. `CCF A`
+- [FacialPulse: An Efficient RNN-based Depression Detection via Temporal Facial Landmarks](https://dl.acm.org/doi/abs/10.1145/3664647.3681546), Ruiqi Wang, Jinyang Huang, Jie Zhang, Xin Liu, **Xiang Zhang**, Zhi Liu, Peng Zhao, Sigui Chen, Xiao Sun, **ACM MM 2024**. `CCF A (Oral Paper, 174/4385=3.97%)`
 - [DM-NAI: Dynamic Information Diffusion Model Incorporating Non-Adjacent Node Interaction](https://ieeexplore.ieee.org/abstract/document/10622159), Xinyu Li, Jinyang Huang\*, **Xiang Zhang\***, Peng Zhao, Meng Wang, Guohang Zhuang, Huan Yan, Xiao Sun, **IEEE ICC 2024**. `CCF C`
 - [UAPE: Information Propagation Model Based on User Attitude and Public Opinion Environment](https://ieeexplore.ieee.org/abstract/document/10622197), Xinyu Li, Jinyang Huang\*, **Xiang Zhang\***, Peng Zhao, Meng Wang, Guohang Zhuang, Huan Yan, Xiao Sun, **IEEE ICC 2024**. `CCF C`
 - [Dynamic Memory-Based Continual Learning with Generating and Screening](https://link.springer.com/chapter/10.1007/978-3-031-44213-1_31), Siying Tao, Jinyang Huang\*, **Xiang Zhang\***, Xiao Sun, Yu Gu, **ICANN 2023**. `CCF C`
