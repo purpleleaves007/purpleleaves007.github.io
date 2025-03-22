@@ -54,7 +54,7 @@ CamLoPa: A Hidden Wireless Camera Localization Framework via Signal Propagation 
 
 [WiGRUNT: WiFi-enabled gesture recognition using dual-attention network](https://ieeexplore.ieee.org/abstract/document/9759238) 
 
-Yu Gu, **Xiang Zhang\***, Yantong Wang, Meng Wang, Huan Yan, Yusheng Ji, Zhi Liu, Jianhua Li, Mianxiong Dong, **IEEE THMS 2022**.
+Yu Gu, **Xiang Zhang\***, Yantong Wang, Meng Wang, Huan Yan, Yusheng Ji, Zhi Liu, Jianhua Li, Mianxiong Dong, **IEEE Transactions on Human-Machine Systems 2022**.
 
 </div>
 </div>
@@ -76,17 +76,18 @@ Yu Gu, **Xiang Zhang\***, Yantong Wang, Meng Wang, Huan Yan, Yusheng Ji, Zhi Liu
 - [BeSense: Leveraging WiFi channel data and computational intelligence for behavior analysis](https://ieeexplore.ieee.org/abstract/document/8870275),Yu Gu, **Xiang Zhang**, Zhi Liu, Fuji Ren, **IEEE Computational Intelligence Magazine 2019** `JCR Q1, IF = 10.3`
   
 ## 📚 Conferences
-- CamLoPa: A Hidden Wireless Camera Localization Framework via Signal Propagation Path Analysis, **Xiang Zhang**, Jie Zhang, Zehus Ma, Jinyang Huang, Meng Li, Huan Yan, Peng Zhao, Zijian Zhang, Bin Liu, Qing Guo, Tianwei Zhang, and Nenghai Yu, **IEEE S&P 2025**, Accepted. `CCF A (257/1740=14.8%)`
-- [Hidden WiFi Camera Localization via Signal Propagation Path Analysis](https://dl.acm.org/doi/abs/10.1145/3636534.3698834), **Xiang Zhang**, Zehua Ma, Jinyang Huang, Huan Yan, Meng Li, Zhi Liu, Bin Liu, **ACM Mobicom 2024**. `CCF A`
-- [FacialPulse: An Efficient RNN-based Depression Detection via Temporal Facial Landmarks](https://dl.acm.org/doi/abs/10.1145/3664647.3681546), Ruiqi Wang, Jinyang Huang, Jie Zhang, Xin Liu, **Xiang Zhang**, Zhi Liu, Peng Zhao, Sigui Chen, Xiao Sun, **ACM MM 2024**. `CCF A (Oral Paper, 174/4385=3.97%)`
-- [DM-NAI: Dynamic Information Diffusion Model Incorporating Non-Adjacent Node Interaction](https://ieeexplore.ieee.org/abstract/document/10622159), Xinyu Li, Jinyang Huang\*, **Xiang Zhang\***, Peng Zhao, Meng Wang, Guohang Zhuang, Huan Yan, Xiao Sun, **IEEE ICC 2024**. `CCF C`
-- [UAPE: Information Propagation Model Based on User Attitude and Public Opinion Environment](https://ieeexplore.ieee.org/abstract/document/10622197), Xinyu Li, Jinyang Huang\*, **Xiang Zhang\***, Peng Zhao, Meng Wang, Guohang Zhuang, Huan Yan, Xiao Sun, **IEEE ICC 2024**. `CCF C`
-- [Dynamic Memory-Based Continual Learning with Generating and Screening](https://link.springer.com/chapter/10.1007/978-3-031-44213-1_31), Siying Tao, Jinyang Huang\*, **Xiang Zhang\***, Xiao Sun, Yu Gu, **ICANN 2023**. `CCF C`
-- [Conditional Convolution Residual Network for Efficient Super-Resolution](https://link.springer.com/chapter/10.1007/978-3-031-44204-9_8), Yunsheng Guo, Jinyang Huang\*, **Xiang Zhang\***, Xiao Sun, Yu Gu, **ICANN 2023**. `CCF C`
-- [Mitigating label-noise for facial expression recognition in the wild](https://ieeexplore.ieee.org/abstract/document/9859818), Huan Yan, Yu Gu, **Xiang Zhang**, Yantong Wang, Yusheng Ji, Fuji Ren, **IEEE ICME 2022**. `CCF B`
-- [Real-time vital signs monitoring based on COTS WiFi devices](https://ieeexplore.ieee.org/abstract/document/9669403), Yu Gu, **Xiang Zhang\***, Huan Yan, Zhi Liu, Yusheng Ji, **IEEE BIBM 2021**. `CCF B`
-- [Wifi-based real-time breathing and heart rate monitoring during sleep](https://ieeexplore.ieee.org/abstract/document/9014297), Yu Gu, **Xiang Zhang**, Zhi Liu, Fuji Ren, **IEEE Globecom 2019**. `CCF C`
-- [Your wifi knows how you behave: Leveraging wifi channel data for behavior analysis](https://ieeexplore.ieee.org/abstract/document/8647547), Yu Gu, **Xiang Zhang**, Chao Li, Fuji Ren, Jie Li, Zhi Liu, **IEEE Globecom 2018**. `CCF C`
+- CamLoPa: A Hidden Wireless Camera Localization Framework via Signal Propagation Path Analysis, **Xiang Zhang**, Jie Zhang, Zehus Ma, Jinyang Huang, Meng Li, Huan Yan, Peng Zhao, Zijian Zhang, Bin Liu, Qing Guo, Tianwei Zhang, and Nenghai Yu, **IEEE Symposium on Security and Privacy, IEEE S&P 2025**, Accepted. `CCF A (257/1740=14.8%)`
+- [Hidden WiFi Camera Localization via Signal Propagation Path Analysis](https://dl.acm.org/doi/abs/10.1145/3636534.3698834), **Xiang Zhang**, Zehua Ma, Jinyang Huang, Huan Yan, Meng Li, Zhi Liu, Bin Liu, **ACM Annual International Conference on
+Mobile Computing and Networking, ACM Mobicom 2024**. `CCF A`
+- [FacialPulse: An Efficient RNN-based Depression Detection via Temporal Facial Landmarks](https://dl.acm.org/doi/abs/10.1145/3664647.3681546), Ruiqi Wang, Jinyang Huang, Jie Zhang, Xin Liu, **Xiang Zhang**, Zhi Liu, Peng Zhao, Sigui Chen, Xiao Sun, **ACM Multimedia, ACM MM 2024**. `CCF A (Oral Paper, 174/4385=3.97%)`
+- [DM-NAI: Dynamic Information Diffusion Model Incorporating Non-Adjacent Node Interaction](https://ieeexplore.ieee.org/abstract/document/10622159), Xinyu Li, Jinyang Huang\*, **Xiang Zhang\***, Peng Zhao, Meng Wang, Guohang Zhuang, Huan Yan, Xiao Sun, **IEEE International Conference on Communications, IEEE ICC 2024**. `CCF C`
+- [UAPE: Information Propagation Model Based on User Attitude and Public Opinion Environment](https://ieeexplore.ieee.org/abstract/document/10622197), Xinyu Li, Jinyang Huang\*, **Xiang Zhang\***, Peng Zhao, Meng Wang, Guohang Zhuang, Huan Yan, Xiao Sun, **IEEE International Conference on Communications, IEEE ICC 2024**. `CCF C`
+- [Dynamic Memory-Based Continual Learning with Generating and Screening](https://link.springer.com/chapter/10.1007/978-3-031-44213-1_31), Siying Tao, Jinyang Huang\*, **Xiang Zhang\***, Xiao Sun, Yu Gu, **International Conference on Artificial Neural Networks, ICANN 2023**. `CCF C`
+- [Conditional Convolution Residual Network for Efficient Super-Resolution](https://link.springer.com/chapter/10.1007/978-3-031-44204-9_8), Yunsheng Guo, Jinyang Huang\*, **Xiang Zhang\***, Xiao Sun, Yu Gu, **International Conference on Artificial Neural Networks, ICANN 2023**. `CCF C`
+- [Mitigating label-noise for facial expression recognition in the wild](https://ieeexplore.ieee.org/abstract/document/9859818), Huan Yan, Yu Gu, **Xiang Zhang**, Yantong Wang, Yusheng Ji, Fuji Ren, **IEEE International Conference on Multimedia & Expo, IEEE ICME 2022**. `CCF B`
+- [Real-time vital signs monitoring based on COTS WiFi devices](https://ieeexplore.ieee.org/abstract/document/9669403), Yu Gu, **Xiang Zhang\***, Huan Yan, Zhi Liu, Yusheng Ji, **IEEE International Conference on Bioinformatics and Biomedicine, IEEE BIBM 2021**. `CCF B`
+- [Wifi-based real-time breathing and heart rate monitoring during sleep](https://ieeexplore.ieee.org/abstract/document/9014297), Yu Gu, **Xiang Zhang**, Zhi Liu, Fuji Ren, **IEEE Global Communications Conference, IEEE Globecom 2019**. `CCF C`
+- [Your wifi knows how you behave: Leveraging wifi channel data for behavior analysis](https://ieeexplore.ieee.org/abstract/document/8647547), Yu Gu, **Xiang Zhang**, Chao Li, Fuji Ren, Jie Li, Zhi Liu, **IEEE Global Communications Conference, IEEE Globecom 2018**. `CCF C`
 
 # 🎖 Honors and Awards
 - *2024.11* IEEE HITC Distinguished Phd Dissertation Award. 
