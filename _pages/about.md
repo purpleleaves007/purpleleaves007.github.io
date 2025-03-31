@@ -24,7 +24,7 @@ My research interest includes wireless sensing, IOT security and affective compu
 
 # 🔥 News
 - *2025.03*: &nbsp;🎉🎉 One Paper about Watermark Updating accepted by IEEE ICME 2025. Congrats to Yanyan Liu!
-- *2025.03*: &nbsp;🎉🎉 One Paper about WiFi-based open set gesture recognition accepted by IEEE IOTJ. Congrats to Huan Yan!
+- *2025.03*: &nbsp;🎉🎉 One Paper about WiFi-based domain adaption gesture recognition accepted by IEEE IOTJ. Congrats to Huan Yan!
 - *2025.03*: &nbsp;🎉🎉 One Paper about Wireless Hidden Camera Localization accepted by **IEEE S&P 2025**. Congrats to Myself!
 - *2025.03*: &nbsp;🎉🎉 One Paper about Noise Robust Facial Expression Recognition accepted by **IEEE TAFFC**. Congrats to Myself!
 - *2025.02*: &nbsp;🎉🎉 Invited to serve as a TPC member for IEEE Globecom 2025.
