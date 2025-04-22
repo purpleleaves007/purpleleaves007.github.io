@@ -95,7 +95,7 @@ Mobile Computing and Networking, ACM Mobicom 2024, Demo**. `CCF A`
 
 # 🎖 Honors and Awards
 - *2024.11* IEEE HITC Distinguished Phd Dissertation Award. 
-- *2024.10* IEEE SMC Society Andrew P. Sage Best Transactions Paper Award (The first student author and the corresponding author).
+- *2024.10* IEEE SMC Society Andrew P. Sage Best Transactions Paper Award (The corresponding author).
 - *2020.09* China Scholarship Council (Joint Doctoral Program), China Scholarship Council
 - *2019.10* National Scholarship, Ministry of Education of P. R. China, Ph.D.
 
@@ -104,11 +104,12 @@ Mobile Computing and Networking, ACM Mobicom 2024, Demo**. `CCF A`
 - *2013.09 - 2017.06*, Undergraduate, Hefei University of Technology, Hefei, China.
 
 # 🧑‍🎨 TPC Member and Reviewers
-- ACM Multimedia(MM 2024, TPC)
+- ACM Multimedia(MM 2024)
 - IEEE Global Communications Conference (GLOBECOM 2023,2024,2025, TPC)
 - IEEE International Conference on Multimedia and Expo (ICME 2023,2025)
 - ACM Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT 2024)
 - Annual Meeting of the Cognitive Science Society (CogSci 2025)
+- IEEE Transactions on Affective Computing
 - IEEE Transactions on Human-Machine Systems
 - IEEE Transactions on Multimedia
 - IEEE Wireless Communication Magazine
