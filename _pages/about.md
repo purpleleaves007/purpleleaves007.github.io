@@ -42,7 +42,7 @@ My research interest includes wireless sensing, IOT security and affective compu
 
 [Hidden WiFi Camera Localization via Signal Propagation Path Analysis](https://dl.acm.org/doi/abs/10.1145/3636534.3698834) 
 
-**Xiang Zhang**, Zehua Ma, Jinyang Huang, Huan Yan, Meng Li, Zhi Liu, Bin Liu, **ACM Mobicom 2024**.
+**Xiang Zhang**, Zehua Ma, Jinyang Huang, Huan Yan, Meng Li, Zhi Liu, Bin Liu, **ACM Mobicom 2024 Demo**.
 
 CamLoPa: A Hidden Wireless Camera Localization Framework via Signal Propagation Path Analysis, 
 
