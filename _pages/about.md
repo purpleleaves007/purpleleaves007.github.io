@@ -23,11 +23,12 @@ My research interest includes wireless sensing, IOT security and affective compu
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 Invited to serve as **Publication Chair** for IEEE ISPA 2025 (CCF C).
 - *2025.03*: &nbsp;🎉🎉 One Paper about Watermark Updating accepted by IEEE ICME 2025. Congrats to Yanyan Liu!
 - *2025.03*: &nbsp;🎉🎉 One Paper about WiFi-based domain adaption gesture recognition accepted by IEEE IOTJ. Congrats to Huan Yan!
 - *2025.03*: &nbsp;🎉🎉 One Paper about Wireless Hidden Camera Localization accepted by **IEEE S&P 2025**. Congrats to Myself!
 - *2025.03*: &nbsp;🎉🎉 One Paper about Noise Robust Facial Expression Recognition accepted by **IEEE TAFFC**. Congrats to Myself!
-- *2025.02*: &nbsp;🎉🎉 Invited to serve as a TPC member for IEEE Globecom 2025.
+- *2025.02*: &nbsp;🎉🎉 Invited to serve as a TPC member for IEEE Globecom 2025 (CCF C).
 - *2025.01*: &nbsp;🎉🎉 One Paper about WiFi-based Gesture Recognition accepted by **IEEE THMS**. Congrats to Myself!
 - *2024.12*: &nbsp;🎉🎉 One Paper about WiFi-based Respiratory Healthcare accepted by IEEE Network. Congrats to Meng Wang!
 - *2024.11*: &nbsp;🎉🎉 It's an honor to become the recipient of the **IEEE HITC Distinguished Phd Dissertation Award**. Congrats to Myself!
@@ -104,6 +105,7 @@ Mobile Computing and Networking, ACM Mobicom 2024, Demo**. `CCF A`
 - *2013.09 - 2017.06*, Undergraduate, Hefei University of Technology, Hefei, China.
 
 # 🧑‍🎨 TPC Member and Reviewers
+- IEEE International Symposium on Parallel and Distributed Processing with Applications(ISPA 2025, **Publication Chiar**)
 - ACM Multimedia(MM 2024)
 - IEEE Global Communications Conference (GLOBECOM 2023,2024,2025, TPC)
 - IEEE International Conference on Multimedia and Expo (ICME 2023,2025)
