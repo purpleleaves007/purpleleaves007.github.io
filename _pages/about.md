@@ -81,7 +81,7 @@ Yu Gu, **Xiang Zhang\***, Yantong Wang, Meng Wang, Huan Yan, Yusheng Ji, Zhi Liu
   
 ## 📚 Conferences
 - [CamLoPa: A Hidden Wireless Camera Localization Framework via Signal Propagation Path Analysis](https://www.computer.org/csdl/proceedings-article/sp/2025/223600d376/26hiVtI5Xoc), **Xiang Zhang**, Jie Zhang, Zehus Ma, Jinyang Huang, Meng Li, Huan Yan, Peng Zhao, Zijian Zhang, Bin Liu, Qing Guo, Tianwei Zhang, and Nenghai Yu, **IEEE Symposium on Security and Privacy, IEEE S&P 2025**, Accepted. `CCF A (257/1740=14.8%)`
-- A Watermark Updating Framework for Multi-stage Image Content Distribution, Yanyan Liu, Bin Liu, Jie Zhang, **Xiang Zhang**, Zehua Ma, Nenghai Yu, **IEEE International Conference on Multimedia & Expo, IEEE ICME 2025**. `CCF B`
+- A Watermark Updating Framework for Multi-stage Image Content Distribution, Yanyan Liu, Bin Liu, Jie Zhang, **Xiang Zhang**, Zehua Ma, Nenghai Yu, **IEEE International Conference on Multimedia & Expo, IEEE ICME 2025**. `CCF B (Oral Paper, 15%)`
 - [Hidden WiFi Camera Localization via Signal Propagation Path Analysis](https://dl.acm.org/doi/abs/10.1145/3636534.3698834), **Xiang Zhang**, Zehua Ma, Jinyang Huang, Huan Yan, Meng Li, Zhi Liu, Bin Liu, **ACM Annual International Conference on
 Mobile Computing and Networking, ACM Mobicom 2024, Demo**. `CCF A`
 - [FacialPulse: An Efficient RNN-based Depression Detection via Temporal Facial Landmarks](https://dl.acm.org/doi/abs/10.1145/3664647.3681546), Ruiqi Wang, Jinyang Huang, Jie Zhang, Xin Liu, **Xiang Zhang**, Zhi Liu, Peng Zhao, Sigui Chen, Xiao Sun, **ACM Multimedia, ACM MM 2024**. `CCF A (Oral Paper, 174/4385=3.97%)`
