@@ -23,6 +23,7 @@ My research interest includes wireless sensing, IOT security and affective compu
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 One Paper about RFID Sensing accepted by **ACM TOSN**. Congrats to Yuanhao Feng!
 - *2025.05*: &nbsp;🎉🎉 Invited to serve as **Publication Chair** for IEEE ISPA 2025 (CCF C).
 - *2025.03*: &nbsp;🎉🎉 One Paper about Watermark Updating accepted by IEEE ICME 2025. Congrats to Yanyan Liu!
 - *2025.03*: &nbsp;🎉🎉 One Paper about WiFi-based domain adaption gesture recognition accepted by IEEE IOTJ. Congrats to Huan Yan!
@@ -66,6 +67,7 @@ Yu Gu, **Xiang Zhang\***, Yantong Wang, Meng Wang, Huan Yan, Yusheng Ji, Zhi Liu
 - [ReSup: Reliable Label Noise Suppression for Facial Expression Recognition](https://ieeexplore.ieee.org/document/10916982), **Xiang Zhang**,	Yan Lu, Huan Yan, Jinyang Huang, Yu Gu, Yusheng Ji, Zhi Liu, Bin Liu, **IEEE Transactions on Affective Computing 2025** `CCF B, JCR Q1, IF = 9.6`
 - [WiOpen: A Robust Wi-Fi-based Open-set Gesture Recognition Framework](https://ieeexplore.ieee.org/document/10899398), **Xiang Zhang**,	Jinyang Huang, Huan Yan, Yuanhao Feng, Peng Zhao, Guohang Zhuang, Zhi Liu, Bin Liu, **IEEE Transactions on Human-Machine Systems 2025** `CCF B, JCR Q1, IF = 3.5`
 - [Wi-SFDAGR: WiFi-based Cross-Domain Gesture Recognition via Source-free Domain Adaptation](https://ieeexplore.ieee.org/document/10938146), Huan Yan, **Xiang Zhang\***, Jinyang Huang, Yuanhao Feng, Meng Li, Anzhi Wang, Weihua Ou, Hongbing Wang, Zhi Liu, **IEEE Internet of Things Journal 2025** `CCF C, JCR Q1, IF = 8.2`
+- [RF-Eye: Commodity RFID Can Know What You Write and Who You Are Wherever You Are](https://dl.acm.org/doi/abs/10.1145/3737701), Yuanhao Feng, Jinyang Huang, Youwei Zhang, **Xiang Zhang**, Meng Li, Fusang Zhang, Tianyue Zheng, Anran Li, Mianxiong Dong, Zhi Liu, **ACM Transactions on Sensor Networks** `CCF B, JCR Q2, IF = 3.9`
 - [Target-Oriented WiFi Sensing for Respiratory Healthcare: from Indiscriminate Perception to In-Area Sensing](https://ieeexplore.ieee.org/document/10804189), Meng Wang, Jinyang Huang\*, **Xiang Zhang\***, Zhi Liu, Meng Li, Peng Zhao, Huan Yan, Xiao Sun, Mianxiong Dong, **IEEE Network 2024** `JCR Q1, IF = 8.5`
 - [Wi-Pulmo: Commodity WiFi Can Capture Your Pulmonary Function Without Mouth Clinging](https://ieeexplore.ieee.org/abstract/document/10699348), Peng Zhao, Jinyang Huang\*, **Xiang Zhang\***, Zhi Liu, Huan Yan, Meng Wang, Guohang Zhuang, Yutong Guo, Xiao Sun, Meng Li, **IEEE Internet of Things Journal 2024** `CCF C, JCR Q1, IF = 8.2`
 - [Keystrokesniffer: An off-the-shelf smartphone can eavesdrop on your privacy from anywhere](https://ieeexplore.ieee.org/abstract/document/10587029), Jinyang Huang, Jia-Xuan Bai, **Xiang Zhang\***, Zhi Liu, Yuanhao Feng, Jianchun Liu, Xiao Sun, Mianxiong Dong, Meng Li, **IEEE Transactions on Information Forensics and Security 2024** `CCF A, JCR Q1, IF = 6.3`
