@@ -45,7 +45,7 @@ My research interest includes wireless sensing, IOT security and affective compu
 
 DiffLoc: WiFi Hidden Camera Localization Based on Electromagnetic Diffraction
 
-Xiang Zhang, Jie Zhang, Huan Yan, Jinyang Huang, Zehua Ma, Bin Liu, Meng Li, Kejiang Chen, Qing Guo, Tianwei Zhang, and Zhi Liu, **Usenix Security 2025**.
+**Xiang Zhang**, Jie Zhang, Huan Yan, Jinyang Huang, Zehua Ma, Bin Liu, Meng Li, Kejiang Chen, Qing Guo, Tianwei Zhang, and Zhi Liu, **Usenix Security 2025**.
 
 </div>
 </div>
