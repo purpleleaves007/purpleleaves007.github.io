@@ -19,10 +19,11 @@ redirect_from:
 
 I work at the School of Cyber Science and Technology,  University of Science and Technology of China as postdoc now in Hefei, China. I received the B.E. degree from Hefei University of Technology, China, in 2017, and my D.E. degree from the same university in 2023, supervised by Prof.[Meng Wang](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm) and Prof.[Yu Gu](https://www.scse.uestc.edu.cn/info/1081/15382.htm). During my doctoral period, I receive a CSC scholarship, and I am guided by Prof.[Yusheng Ji](https://klab.nii.ac.jp/) from National Institute of Informatics, Japan.
 
-My research interest includes wireless sensing, IOT security and affective computing. I have published 20+ papers <a href='https://scholar.google.com/citations?user=mz4NUCAAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpurpleleaves007%2Fpurpleleaves007.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&amp;logo=Google%20Scholar&amp;labelColor=f6f6f6&amp;color=9cf&amp;style=flat&amp;label=citations"></a> at the top international conferences and journals. I'm the recipient of the **IEEE SMC Society Andrew P. Sage Best Transactions Paper Award**, the **IEEE HITC Distinguished Phd Dissertation Award** and the  **IEEE ICME 2025 Best Paper Award Nomination**.
+My research interest includes wireless sensing, IOT security and affective computing. I have published 20+ papers <a href='https://scholar.google.com/citations?user=mz4NUCAAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpurpleleaves007%2Fpurpleleaves007.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&amp;logo=Google%20Scholar&amp;labelColor=f6f6f6&amp;color=9cf&amp;style=flat&amp;label=citations"></a> at the top international conferences and journals. I'm the recipient of the **IEEE SMC Society Andrew P. Sage Best Transactions Paper Award**, the **IEEE HITC Distinguished Phd Dissertation Award**, and the  **IEEE ICME 2025 Best Paper Award Nomination**.
 
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 Our Watermark Updating Framework has been selected as **Candidates of best paper** (one of the Top 15 Papers) in ICME 2025. Congrats to Yanyan Liu!
 - *2025.06*: &nbsp;🎉🎉 One Paper about WiFi Hidden Camera Localization accepted by **Usenix Security 2025**. Congrats to Myself!
 - *2025.05*: &nbsp;🎉🎉 One Paper about RFID Sensing accepted by **ACM TOSN**. Congrats to Yuanhao Feng!
 - *2025.05*: &nbsp;🎉🎉 Invited to serve as **Publication Chair** for IEEE ISPA 2025 (CCF C).
@@ -104,9 +105,10 @@ Mobile Computing and Networking, ACM Mobicom 2024, Demo**. `CCF A`
 - [Your wifi knows how you behave: Leveraging wifi channel data for behavior analysis](https://ieeexplore.ieee.org/abstract/document/8647547), Yu Gu, **Xiang Zhang**, Chao Li, Fuji Ren, Jie Li, Zhi Liu, **IEEE Global Communications Conference, IEEE Globecom 2018**. `CCF C`
 
 # 🎖 Honors and Awards
+- *2025.07* IEEE ICME 2025 Best Paper Award Nomination.
 - *2024.11* IEEE HITC Distinguished Phd Dissertation Award. 
 - *2024.10* IEEE SMC Society Andrew P. Sage Best Transactions Paper Award (The corresponding author).
-- *2020.09* China Scholarship Council (Joint Doctoral Program), China Scholarship Council
+- *2020.09* China Scholarship Council (Joint Doctoral Program), China Scholarship Council.
 - *2019.10* National Scholarship, Ministry of Education of P. R. China, Ph.D.
 
 # 📖 Educations
