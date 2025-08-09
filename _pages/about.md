@@ -45,14 +45,14 @@ My research interest includes wireless sensing, IOT security and affective compu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Usenix Security 2025</div><img src='images/DiffLoc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-DiffLoc: WiFi Hidden Camera Localization Based on Electromagnetic Diffraction
+[DiffLoc: WiFi Hidden Camera Localization Based on Electromagnetic Diffraction](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-xiang)
 
 **Xiang Zhang**, Jie Zhang, Huan Yan, Jinyang Huang, Zehua Ma, Bin Liu, Meng Li, Kejiang Chen, Qing Guo, Tianwei Zhang, and Zhi Liu, **Usenix Security 2025**.
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mobicom 2024, S&P2025</div><img src='images/CamLoPA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE S&P2025</div><img src='images/CamLoPA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Hidden WiFi Camera Localization via Signal Propagation Path Analysis](https://dl.acm.org/doi/abs/10.1145/3636534.3698834) 
@@ -66,7 +66,7 @@ DiffLoc: WiFi Hidden Camera Localization Based on Electromagnetic Diffraction
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">THMS 2022, Best Transactions Paper Award</div><img src='images/THMSBestPaper.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE THMS 2022, Best Transactions Paper Award</div><img src='images/THMSBestPaper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [WiGRUNT: WiFi-enabled gesture recognition using dual-attention network](https://ieeexplore.ieee.org/abstract/document/9759238) 
@@ -94,7 +94,7 @@ Yu Gu, **Xiang Zhang\***, Yantong Wang, Meng Wang, Huan Yan, Yusheng Ji, Zhi Liu
 - [BeSense: Leveraging WiFi channel data and computational intelligence for behavior analysis](https://ieeexplore.ieee.org/abstract/document/8870275),Yu Gu, **Xiang Zhang**, Zhi Liu, Fuji Ren, **IEEE Computational Intelligence Magazine 2019** `JCR Q1, IF = 11.2`
   
 ## 📚 Conferences
-- DiffLoc: WiFi Hidden Camera Localization Based on Electromagnetic Diffraction, **Xiang Zhang**, Jie Zhang, Huan Yan, Jinyang Huang, Zehua Ma, Bin Liu, Meng Li, Kejiang Chen, Qing Guo, Tianwei Zhang, and Zhi Liu, **The 34th USENIX Security Symposium, Usenix Security 2025**, Accepted. `CCF A`
+- [DiffLoc: WiFi Hidden Camera Localization Based on Electromagnetic Diffraction](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-xiang), **Xiang Zhang**, Jie Zhang, Huan Yan, Jinyang Huang, Zehua Ma, Bin Liu, Meng Li, Kejiang Chen, Qing Guo, Tianwei Zhang, and Zhi Liu, **The 34th USENIX Security Symposium, Usenix Security 2025**, Accepted. `CCF A`
 - [CamLoPa: A Hidden Wireless Camera Localization Framework via Signal Propagation Path Analysis](https://www.computer.org/csdl/proceedings-article/sp/2025/223600d376/26hiVtI5Xoc), **Xiang Zhang**, Jie Zhang, Zehua Ma, Jinyang Huang, Meng Li, Huan Yan, Peng Zhao, Zijian Zhang, Bin Liu, Qing Guo, Tianwei Zhang, and Nenghai Yu, **IEEE Symposium on Security and Privacy, IEEE S&P 2025**. `CCF A (257/1740=14.8%)`
 - A Watermark Updating Framework for Multi-stage Image Content Distribution, Yanyan Liu, Bin Liu, Jie Zhang, **Xiang Zhang**, Zehua Ma, Nenghai Yu, **IEEE International Conference on Multimedia & Expo, IEEE ICME 2025**, Accepted. `CCF B (Best Paper Award Nomination, 15/3737=0.4%)`
 - [Hidden WiFi Camera Localization via Signal Propagation Path Analysis](https://dl.acm.org/doi/abs/10.1145/3636534.3698834), **Xiang Zhang**, Zehua Ma, Jinyang Huang, Huan Yan, Meng Li, Zhi Liu, Bin Liu, **ACM Annual International Conference on
