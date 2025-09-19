@@ -56,18 +56,18 @@ My research interest includes IOT security, wireless sensing, and affective comp
 </style>
 
 <ul id="news-list" style="list-style-type: none; padding-left: 0;">
-<li class="news-item">- <em>2025.09</em>: &nbsp;🎉🎉 One Papers accepted by **NIPS DB Track** 2025. Congrats to Kuocheng Wu and Guohang Zhuang!</li>
+<li class="news-item">- <em>2025.09</em>: &nbsp;🎉🎉 One Papers accepted by <b>NIPS DB Track</b> 2025. Congrats to Kuocheng Wu and Guohang Zhuang!</li>
 <li class="news-item">- <em>2025.08</em>: &nbsp;🎉🎉 Two Papers accepted by IEEE Globecom 2025. Congrats to Yelin Wei and Jian Liu!</li>
-<li class="news-item">- <em>2025.07</em>:  &nbsp;🎉🎉 Our Watermark Updating Framework has been selected as **[Candidates of best paper](https://2025.ieeeicme.org/awards/)** (one of the Top 15 Papers) in ICME 2025. Congrats to Yanyan Liu!</li>
-<li class="news-item">- <em>2025.06</em>:  &nbsp;🎉🎉 One Paper about WiFi Hidden Camera Localization accepted by **Usenix Security 2025**. Congrats to Myself!</li>
-<li class="news-item">- <em>2025.05</em>:  &nbsp;🎉🎉 One Paper about RFID Sensing accepted by **ACM TOSN**. Congrats to Yuanhao Feng!</li>
-<li class="news-item">- <em>2025.05</em>:  &nbsp;🎉🎉 Invited to serve as **Publication Chair** for IEEE ISPA 2025 (CCF C).</li>
-<li class="news-item">- <em>2025.03</em>:  &nbsp;🎉🎉 One Paper about Wireless Hidden Camera Localization accepted by **IEEE S&P 2025**. Congrats to Myself!</li>
-<li class="news-item">- <em>2025.03</em>:  &nbsp;🎉🎉 One Paper about Noise Robust Facial Expression Recognition accepted by **IEEE TAFFC**. Congrats to Myself!</li>
-<li class="news-item">- <em>2025.01</em>:  &nbsp;🎉🎉 One Paper about WiFi-based Gesture Recognition accepted by **IEEE THMS**. Congrats to Myself!</li>
-<li class="news-item">- <em>2024.11</em>:  &nbsp;🎉🎉 It's an honor to become the recipient of the **IEEE HITC Distinguished Phd Dissertation Award**. Congrats to Myself!</li>
-<li class="news-item">- <em>2024.10</em>: &nbsp;🎉🎉 It's an honor to become the recipient of the **IEEE SMC Society Andrew P. Sage Best Transactions Paper Award**. Congrats to Myself!</li>
-<li class="news-item">- <em>2024.09</em>: &nbsp;🎉🎉One Demo Paper about WiFi-based Malicious Camera Detection accepted by **ACM Mobicom**. Congrats to Myself!</li>
+<li class="news-item">- <em>2025.07</em>:  &nbsp;🎉🎉 Our Watermark Updating Framework has been selected as <b>[Candidates of best paper](https://2025.ieeeicme.org/awards/)</b> (one of the Top 15 Papers) in ICME 2025. Congrats to Yanyan Liu!</li>
+<li class="news-item">- <em>2025.06</em>:  &nbsp;🎉🎉 One Paper about WiFi Hidden Camera Localization accepted by <b>Usenix Security 2025</b>. Congrats to Myself!</li>
+<li class="news-item">- <em>2025.05</em>:  &nbsp;🎉🎉 One Paper about RFID Sensing accepted by <b>ACM TOSN</b>. Congrats to Yuanhao Feng!</li>
+<li class="news-item">- <em>2025.05</em>:  &nbsp;🎉🎉 Invited to serve as <b>Publication Chair</b> for IEEE ISPA 2025 (CCF C).</li>
+<li class="news-item">- <em>2025.03</em>:  &nbsp;🎉🎉 One Paper about Wireless Hidden Camera Localization accepted by <b>IEEE S&P 2025</b>. Congrats to Myself!</li>
+<li class="news-item">- <em>2025.03</em>:  &nbsp;🎉🎉 One Paper about Noise Robust Facial Expression Recognition accepted by <b>IEEE TAFFC</b>. Congrats to Myself!</li>
+<li class="news-item">- <em>2025.01</em>:  &nbsp;🎉🎉 One Paper about WiFi-based Gesture Recognition accepted by <b>IEEE THMS</b>. Congrats to Myself!</li>
+<li class="news-item">- <em>2024.11</em>:  &nbsp;🎉🎉 It's an honor to become the recipient of the <b>IEEE HITC Distinguished Phd Dissertation Award</b>. Congrats to Myself!</li>
+<li class="news-item">- <em>2024.10</em>: &nbsp;🎉🎉 It's an honor to become the recipient of the <b>IEEE SMC Society Andrew P. Sage Best Transactions Paper Award</b>. Congrats to Myself!</li>
+<li class="news-item">- <em>2024.09</em>: &nbsp;🎉🎉One Demo Paper about WiFi-based Malicious Camera Detection accepted by <b>ACM Mobicom</b>. Congrats to Myself!</li>
 <li class="news-item">- <em>2025.03</em>: &nbsp;🎉🎉 One Paper about Watermark Updating accepted by IEEE ICME 2025. Congrats to Yanyan Liu!</li>
 <li class="news-item">- <em>2025.03</em>: &nbsp;🎉🎉 One Paper about WiFi-based domain adaption gesture recognition accepted by IEEE IOTJ. Congrats to Huan Yan!</li>
 <li class="news-item">- <em>2025.03</em>: &nbsp;🎉🎉 Invited to serve as a TPC member for IEEE Globecom 2025 (CCF C).</li>
