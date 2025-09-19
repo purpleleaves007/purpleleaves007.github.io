@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiang Zhang"
-description              : "Postdoc in University of Science and Technology of China. Focusing on wireless sensing, IOT security."
+description              : "Associate Professor (副教授) in Tianjin University. Focusing on IOT security, wireless sensing and cyber-physical system."
 repository               : "purpleleaves007/purpleleaves007.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xiang Zhang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "USTC"
-  location         : "Hefei, China"
+  bio              : "Tianjin University"
+  location         : "Tianjin, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=mz4NUCAAAAAJ"
-  email            : "zhangxiang1996@ustc.edu.cn"
+  email            : "zhangxiang@ieee.org"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
