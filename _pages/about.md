@@ -25,33 +25,33 @@ My research interest includes IOT security, wireless sensing, and affective comp
 
 
 # 🔥 News
-# 🔥 News
 
-- *2025.09*: 🎉🎉 One Paper accepted by **NIPS DB Track 2025**. Congrats to Kuocheng Wu and Guohang Zhuang!  
-- *2025.08*: 🎉🎉 Two Papers accepted by IEEE Globecom 2025. Congrats to Yelin Wei and Jian Liu!  
-- *2025.07*: 🎉🎉 Our Watermark Updating Framework has been selected as [**Candidates of Best Paper**](https://2025.ieeeicme.org/awards/) (one of the Top 15 Papers) in ICME 2025. Congrats to Yanyan Liu!  
-- *2025.06*: 🎉🎉 One Paper about WiFi Hidden Camera Localization accepted by **Usenix Security 2025**. Congrats to Myself!  
-- *2025.05*: 🎉🎉 One Paper about RFID Sensing accepted by **ACM TOSN**. Congrats to Yuanhao Feng!  
-- *2025.05*: 🎉🎉 Invited to serve as **Publication Chair** for **IEEE ISPA 2025 (CCF C)**.  
-- *2025.03*: 🎉🎉 One Paper about Wireless Hidden Camera Localization accepted by **IEEE S&P 2025**. Congrats to Myself!  
-- *2025.03*: 🎉🎉 One Paper about Noise Robust Facial Expression Recognition accepted by **IEEE TAFFC**. Congrats to Myself!  
-- *2025.01*: 🎉🎉 One Paper about WiFi-based Gesture Recognition accepted by **IEEE THMS**. Congrats to Myself!  
-- *2024.11*: 🎉🎉 It's an honor to become the recipient of the **IEEE HITC Distinguished PhD Dissertation Award**. Congrats to Myself!  
-- *2024.10*: 🎉🎉 It's an honor to become the recipient of the **IEEE SMC Society Andrew P. Sage Best Transactions Paper Award**. Congrats to Myself!  
-- *2024.09*: 🎉🎉 One Demo Paper about WiFi-based Malicious Camera Detection accepted by **ACM Mobicom**. Congrats to Myself!  
+- *2025.09*: 🎉🎉 One Paper accepted by **NIPS DB Track 2025**. Congrats to Kuocheng Wu and Guohang Zhuang!
+- *2025.08*: 🎉🎉 Two Papers accepted by IEEE Globecom 2025. Congrats to Yelin Wei and Jian Liu!
+- *2025.07*: 🎉🎉 Our Watermark Updating Framework has been selected as [**Candidates of Best Paper**](https://2025.ieeeicme.org/awards/) (one of the Top 15 Papers) in ICME 2025. Congrats to Yanyan Liu!
+- *2025.06*: 🎉🎉 One Paper about WiFi Hidden Camera Localization accepted by **Usenix Security 2025**. Congrats to Myself!
+- *2025.05*: 🎉🎉 One Paper about RFID Sensing accepted by **ACM TOSN**. Congrats to Yuanhao Feng!
+- *2025.05*: 🎉🎉 Invited to serve as **Publication Chair** for **IEEE ISPA 2025 (CCF C)**.
+- *2025.03*: 🎉🎉 One Paper about Wireless Hidden Camera Localization accepted by **IEEE S&P 2025**. Congrats to Myself!
+- *2025.03*: 🎉🎉 One Paper about Noise Robust Facial Expression Recognition accepted by **IEEE TAFFC**. Congrats to Myself!
+- *2025.01*: 🎉🎉 One Paper about WiFi-based Gesture Recognition accepted by **IEEE THMS**. Congrats to Myself!
+- *2024.11*: 🎉🎉 It's an honor to become the recipient of the **IEEE HITC Distinguished PhD Dissertation Award**. Congrats to Myself!
+- *2024.10*: 🎉🎉 It's an honor to become the recipient of the **IEEE SMC Society Andrew P. Sage Best Transactions Paper Award**. Congrats to Myself!
+- *2024.09*: 🎉🎉 One Demo Paper about WiFi-based Malicious Camera Detection accepted by **ACM Mobicom**. Congrats to Myself!
 
 <details>
   <summary>More News ...</summary>
 
-- *2025.03*: 🎉🎉 One Paper about Watermark Updating accepted by IEEE ICME 2025. Congrats to Yanyan Liu!  
-- *2025.03*: 🎉🎉 One Paper about WiFi-based domain adaption gesture recognition accepted by IEEE IOTJ. Congrats to Huan Yan!  
-- *2025.03*: 🎉🎉 Invited to serve as a TPC member for IEEE Globecom 2025 (CCF C).  
-- *2024.12*: 🎉🎉 One Paper about WiFi-based Respiratory Healthcare accepted by IEEE Network. Congrats to Meng Wang!  
-- *2024.10*: 🎉🎉 One Paper about WiFi-based Pulmonary Function Testing accepted by IEEE IOTJ. Congrats to Peng Zhao!  
+- *2025.03*: 🎉🎉 One Paper about Watermark Updating accepted by IEEE ICME 2025. Congrats to Yanyan Liu!
+- 
+- *2025.03*: 🎉🎉 One Paper about WiFi-based domain adaption gesture recognition accepted by IEEE IOTJ. Congrats to Huan Yan!
+- *2025.03*: 🎉🎉 Invited to serve as a TPC member for IEEE Globecom 2025 (CCF C).
+- *2024.12*: 🎉🎉 One Paper about WiFi-based Respiratory Healthcare accepted by IEEE Network. Congrats to Meng Wang!
+- *2024.10*: 🎉🎉 One Paper about WiFi-based Pulmonary Function Testing accepted by IEEE IOTJ. Congrats to Peng Zhao!
 
 </details>
 
-#📝 Publications
+# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Usenix Security 2025</div><img src='images/DiffLoc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
