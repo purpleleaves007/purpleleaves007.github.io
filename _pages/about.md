@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我9月即将入职天津大学网安学院任副教授，主攻物联网安全，智能感知，信息物理系统及其安全等方向。如果对我的研究方向感兴趣并希望攻读硕士学位或有意交流欢迎联系我。
+我9月即将入职天津大学网安学院任副教授，主攻物联网安全，智能感知，信息物理系统及其安全等方向。如果对我的研究方向感兴趣并希望攻读硕士学位或有意进行科研方面的交流合作欢迎联系我。
 
 I work at the School of Cyber Security,  Tianjin University as Associate Professor now in Tianjin, China. I received the B.E. degree from Hefei University of Technology, China, in 2017, and my D.E. degree from the same university in 2023, supervised by Prof.[Meng Wang](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm) and Prof.[Yu Gu](https://www.scse.uestc.edu.cn/info/1081/15382.htm). During my doctoral period, I receive a CSC scholarship, and I am guided by Prof.[Yusheng Ji](https://klab.nii.ac.jp/) from National Institute of Informatics, Japan.
 
