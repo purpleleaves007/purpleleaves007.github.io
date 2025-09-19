@@ -37,6 +37,7 @@ My research interest includes IOT security, wireless sensing, and affective comp
 - *2025.03*: &nbsp;🎉🎉 One Paper about Noise Robust Facial Expression Recognition accepted by **IEEE TAFFC**. Congrats to Myself!
 - *2025.02*: &nbsp;🎉🎉 Invited to serve as a TPC member for IEEE Globecom 2025 (CCF C).
 - *2025.01*: &nbsp;🎉🎉 One Paper about WiFi-based Gesture Recognition accepted by **IEEE THMS**. Congrats to Myself!
+- 
 <details>
   <summary>Older news (click to expand)</summary>
 - *2024.12*: &nbsp;🎉🎉 One Paper about WiFi-based Respiratory Healthcare accepted by IEEE Network. Congrats to Meng Wang!
@@ -103,8 +104,8 @@ Yu Gu, **Xiang Zhang\***, Yantong Wang, Meng Wang, Huan Yan, Yusheng Ji, Zhi Liu
 - [DiffLoc: WiFi Hidden Camera Localization Based on Electromagnetic Diffraction](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-xiang), **Xiang Zhang**, Jie Zhang, Huan Yan, Jinyang Huang, Zehua Ma, Bin Liu, Meng Li, Kejiang Chen, Qing Guo, Tianwei Zhang, and Zhi Liu, **The 34th USENIX Security Symposium, Usenix Security 2025**, Accepted. `CCF A (407/2385=17.1%)`
 - [CamLoPa: A Hidden Wireless Camera Localization Framework via Signal Propagation Path Analysis](https://www.computer.org/csdl/proceedings-article/sp/2025/223600d376/26hiVtI5Xoc), **Xiang Zhang**, Jie Zhang, Zehua Ma, Jinyang Huang, Meng Li, Huan Yan, Peng Zhao, Zijian Zhang, Bin Liu, Qing Guo, Tianwei Zhang, and Nenghai Yu, **IEEE Symposium on Security and Privacy, IEEE S&P 2025**. `CCF A (257/1740=14.8%)`
 - [STAR: A Benchmark for Astronomical Star Fields Super-Resolution](https://arxiv.org/abs/2507.16385), Kuocheng Wu, Guohang Zhuang, Jinyang Huang, **Xiang Zhang**, Wanli Ouyang, Yan Lu, **NeurIPS 2025 Datasets and Benchmarks Track**, Accepted. `CCF A, Spotlight (56/1995=2.81%)`
-- Source-Free Domain Adaptation via Perceptual Semantic Decoupling for WiFi Gesture Recognition, Yelin Wei, **Xiang Zhang\***, Bin Liu, Songming Jia, Jinyang Huang, Zhi Liu, Huan Yan, In the 2025 **IEEE Global Communications Conference (GLOBECOM 2025)**, Accepted. `CCF C`
-- Temporal Features for IoT Devices: Out-of-Distribution Detection without Upper-Layer Dependencies, Jian Liu, Huan Yan, Jinyang Huang, **Xiang Zhang**, In the 2025 **IEEE Global Communications Conference (GLOBECOM 2025)**, Accepted. `CCF C`
+- Source-Free Domain Adaptation via Perceptual Semantic Decoupling for WiFi Gesture Recognition, Yelin Wei, **Xiang Zhang\***, Bin Liu, Songming Jia, Jinyang Huang, Zhi Liu, Huan Yan, **IEEE Global Communications Conference (GLOBECOM 2025)**, Accepted. `CCF C`
+- Temporal Features for IoT Devices: Out-of-Distribution Detection without Upper-Layer Dependencies, Jian Liu, Huan Yan, Jinyang Huang, **Xiang Zhang**, **IEEE Global Communications Conference (GLOBECOM 2025)**, Accepted. `CCF C`
 - A Watermark Updating Framework for Multi-stage Image Content Distribution, Yanyan Liu, Bin Liu, Jie Zhang, **Xiang Zhang**, Zehua Ma, Nenghai Yu, **IEEE International Conference on Multimedia & Expo, IEEE ICME 2025**, Accepted. `CCF B (Best Paper Award Nomination, 15/3737=0.4%)`
 - [Hidden WiFi Camera Localization via Signal Propagation Path Analysis](https://dl.acm.org/doi/abs/10.1145/3636534.3698834), **Xiang Zhang**, Zehua Ma, Jinyang Huang, Huan Yan, Meng Li, Zhi Liu, Bin Liu, **ACM Annual International Conference on
 Mobile Computing and Networking, ACM Mobicom 2024, Demo**. `CCF A`
