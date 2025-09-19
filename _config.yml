@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "章翔/Xiang Zhang"
+title                    : "Xiang Zhang (章翔)"
 description              : "Focusing on IOT security, wireless sensing and cyber-physical system."
 repository               : "purpleleaves007/purpleleaves007.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xiang Zhang"
+  name             : "章翔/Xiang Zhang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "天津大学/Tianjin University, Associate Professor/副教授"
+  bio              : "天津大学/Tianjin University, 副教授/Associate Professor"
   location         : "Tianjin, China"
   employer         :
   pubmed           : 
