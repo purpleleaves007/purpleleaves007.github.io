@@ -59,7 +59,7 @@ My research interest includes IOT security, wireless sensing, and affective comp
 <ul id="news-list" style="list-style-type: none; padding-left: 0;">
 <li class="news-item">- <em>2025.09</em>: &nbsp;🎉🎉 One Papers accepted by <b>NIPS DB Track</b> 2025. Congrats to Kuocheng Wu and Guohang Zhuang!</li>
 <li class="news-item">- <em>2025.08</em>: &nbsp;🎉🎉 Two Papers accepted by IEEE Globecom 2025. Congrats to Yelin Wei and Jian Liu!</li>
-<li class="news-item">- <em>2025.07</em>:  &nbsp;🎉🎉 Our Watermark Updating Framework has been selected as <b>[Candidates of best paper](https://2025.ieeeicme.org/awards/)</b> (one of the Top 15 Papers) in ICME 2025. Congrats to Yanyan Liu!</li>
+<li class="news-item">- <em>2025.07</em>:  &nbsp;🎉🎉 Our Watermark Updating Framework has been selected as <span style="color: red;"><strong><a href="https://2025.ieeeicme.org/awards/">Candidates of best paper</a></strong></span> (one of the Top 15 Papers) in ICME 2025. Congrats to Yanyan Liu!</li>
 <li class="news-item">- <em>2025.06</em>:  &nbsp;🎉🎉 One Paper about WiFi Hidden Camera Localization accepted by <b>Usenix Security 2025</b>. Congrats to Myself!</li>
 <li class="news-item">- <em>2025.05</em>:  &nbsp;🎉🎉 One Paper about RFID Sensing accepted by <b>ACM TOSN</b>. Congrats to Yuanhao Feng!</li>
 <li class="news-item">- <em>2025.05</em>:  &nbsp;🎉🎉 Invited to serve as <b>Publication Chair</b> for IEEE ISPA 2025 (CCF C).</li>
