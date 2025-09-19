@@ -25,6 +25,36 @@ My research interest includes IOT security, wireless sensing, and affective comp
 
 
 # 🔥 News
+<style>
+.news-item {
+    display: block;
+    margin-bottom: 8px;
+}
+
+.news-item.hidden {
+    display: none;
+}
+
+.toggle-button {
+    text-decoration: underline;
+    color: #007bff;
+    border: none;
+    outline: none;
+    padding: 8px 15px;
+    cursor: pointer;
+    /* margin-top: 5px; */
+    font-size: 16px;
+    background: transparent !important;
+    box-shadow: none !important;
+    /* transition: background-color 0.3s; */
+}
+
+
+.toggle-button:hover {
+    background: transparent !important;
+    box-shadow: none !important;
+}
+</style>
 
 <ul id="news-list" style="list-style-type: none; padding-left: 0;">
 <li class="news-item">- <em>2025.09</em>: &nbsp;🎉🎉 One Papers accepted by <b>NIPS DB Track</b> 2025. Congrats to Kuocheng Wu and Guohang Zhuang!</li>
@@ -81,7 +111,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 <!-- # 🔥 News
-- *2025.09*: &nbsp;🎉🎉One Papers accepted by <b>NIPS DB Track</b> 2025. Congrats to Kuocheng Wu and Guohang Zhuang!-->
+- *2025.09*: &nbsp;🎉🎉One Papers accepted by <b>NIPS DB Track</b> 2025. Congrats to Kuocheng Wu and Guohang Zhuang! -->
 
 # 📝 Publications 
 
