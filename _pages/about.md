@@ -36,7 +36,7 @@ My research interest includes IOT security, wireless sensing, and affective comp
 - *2025.03*: 🎉🎉 One Paper about Noise Robust Facial Expression Recognition accepted by **IEEE TAFFC**. Congrats to Myself!
 - *2025.01*: 🎉🎉 One Paper about WiFi-based Gesture Recognition accepted by **IEEE THMS**. Congrats to Myself!
 - *2024.11*: 🎉🎉 It's an honor to become the recipient of the **IEEE HITC Distinguished PhD Dissertation Award**. Congrats to Myself!
-- *2024.10*: 🎉🎉 It's an honor to become the recipient of the **IEEE SMC Society Andrew P. Sage Best Transactions Paper Award**. Congrats to Myself!
+- *2024.10*: 🎉🎉 It's an honor to become the recipient of the **[IEEE SMC Society Andrew P. Sage Best Transactions Paper Award](https://www.ieeesmc.org/about-smcs/awards/andrew-p-sage-best-transactions-paper/)**. Congrats to Myself!
 - *2024.09*: 🎉🎉 One Demo Paper about WiFi-based Malicious Camera Detection accepted by **ACM Mobicom**. Congrats to Myself!
 
 <details>
