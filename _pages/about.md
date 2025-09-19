@@ -25,97 +25,33 @@ My research interest includes IOT security, wireless sensing, and affective comp
 
 
 # 🔥 News
-<style>
-.news-item {
-    display: block;
-    margin-bottom: 8px;
-}
+# 🔥 News
 
-.news-item.hidden {
-    display: none;
-}
+- *2025.09*: 🎉🎉 One Paper accepted by **NIPS DB Track 2025**. Congrats to Kuocheng Wu and Guohang Zhuang!  
+- *2025.08*: 🎉🎉 Two Papers accepted by IEEE Globecom 2025. Congrats to Yelin Wei and Jian Liu!  
+- *2025.07*: 🎉🎉 Our Watermark Updating Framework has been selected as [**Candidates of Best Paper**](https://2025.ieeeicme.org/awards/) (one of the Top 15 Papers) in ICME 2025. Congrats to Yanyan Liu!  
+- *2025.06*: 🎉🎉 One Paper about WiFi Hidden Camera Localization accepted by **Usenix Security 2025**. Congrats to Myself!  
+- *2025.05*: 🎉🎉 One Paper about RFID Sensing accepted by **ACM TOSN**. Congrats to Yuanhao Feng!  
+- *2025.05*: 🎉🎉 Invited to serve as **Publication Chair** for **IEEE ISPA 2025 (CCF C)**.  
+- *2025.03*: 🎉🎉 One Paper about Wireless Hidden Camera Localization accepted by **IEEE S&P 2025**. Congrats to Myself!  
+- *2025.03*: 🎉🎉 One Paper about Noise Robust Facial Expression Recognition accepted by **IEEE TAFFC**. Congrats to Myself!  
+- *2025.01*: 🎉🎉 One Paper about WiFi-based Gesture Recognition accepted by **IEEE THMS**. Congrats to Myself!  
+- *2024.11*: 🎉🎉 It's an honor to become the recipient of the **IEEE HITC Distinguished PhD Dissertation Award**. Congrats to Myself!  
+- *2024.10*: 🎉🎉 It's an honor to become the recipient of the **IEEE SMC Society Andrew P. Sage Best Transactions Paper Award**. Congrats to Myself!  
+- *2024.09*: 🎉🎉 One Demo Paper about WiFi-based Malicious Camera Detection accepted by **ACM Mobicom**. Congrats to Myself!  
 
-.toggle-button {
-    text-decoration: underline;
-    color: #007bff;
-    border: none;
-    outline: none;
-    padding: 8px 15px;
-    cursor: pointer;
-    /* margin-top: 5px; */
-    font-size: 16px;
-    background: transparent !important;
-    box-shadow: none !important;
-    /* transition: background-color 0.3s; */
-}
+<details>
+  <summary>More News ...</summary>
 
+- *2025.03*: 🎉🎉 One Paper about Watermark Updating accepted by IEEE ICME 2025. Congrats to Yanyan Liu!  
+- *2025.03*: 🎉🎉 One Paper about WiFi-based domain adaption gesture recognition accepted by IEEE IOTJ. Congrats to Huan Yan!  
+- *2025.03*: 🎉🎉 Invited to serve as a TPC member for IEEE Globecom 2025 (CCF C).  
+- *2024.12*: 🎉🎉 One Paper about WiFi-based Respiratory Healthcare accepted by IEEE Network. Congrats to Meng Wang!  
+- *2024.10*: 🎉🎉 One Paper about WiFi-based Pulmonary Function Testing accepted by IEEE IOTJ. Congrats to Peng Zhao!  
 
-.toggle-button:hover {
-    background: transparent !important;
-    box-shadow: none !important;
-}
-</style>
+</details>
 
-<ul id="news-list" style="list-style-type: none; padding-left: 0;">
-<li class="news-item">- <em>2025.09</em>: &nbsp;🎉🎉 One Papers accepted by <b>NIPS DB Track</b> 2025. Congrats to Kuocheng Wu and Guohang Zhuang!</li>
-<li class="news-item">- <em>2025.08</em>: &nbsp;🎉🎉 Two Papers accepted by IEEE Globecom 2025. Congrats to Yelin Wei and Jian Liu!</li>
-<li class="news-item">- <em>2025.07</em>:  &nbsp;🎉🎉 Our Watermark Updating Framework has been selected as <span style="color: red;"><strong><a href="https://2025.ieeeicme.org/awards/">Candidates of best paper</a></strong></span> (one of the Top 15 Papers) in ICME 2025. Congrats to Yanyan Liu!</li>
-<li class="news-item">- <em>2025.06</em>:  &nbsp;🎉🎉 One Paper about WiFi Hidden Camera Localization accepted by <b>Usenix Security 2025</b>. Congrats to Myself!</li>
-<li class="news-item">- <em>2025.05</em>:  &nbsp;🎉🎉 One Paper about RFID Sensing accepted by <b>ACM TOSN</b>. Congrats to Yuanhao Feng!</li>
-<li class="news-item">- <em>2025.05</em>:  &nbsp;🎉🎉 Invited to serve as <b>Publication Chair</b> for IEEE ISPA 2025 (CCF C).</li>
-<li class="news-item">- <em>2025.03</em>:  &nbsp;🎉🎉 One Paper about Wireless Hidden Camera Localization accepted by <b>IEEE S&P 2025</b>. Congrats to Myself!</li>
-<li class="news-item">- <em>2025.03</em>:  &nbsp;🎉🎉 One Paper about Noise Robust Facial Expression Recognition accepted by <b>IEEE TAFFC</b>. Congrats to Myself!</li>
-<li class="news-item">- <em>2025.01</em>:  &nbsp;🎉🎉 One Paper about WiFi-based Gesture Recognition accepted by <b>IEEE THMS</b>. Congrats to Myself!</li>
-<li class="news-item">- <em>2024.11</em>:  &nbsp;🎉🎉 It's an honor to become the recipient of the <b>IEEE HITC Distinguished Phd Dissertation Award</b>. Congrats to Myself!</li>
-<li class="news-item">- <em>2024.10</em>: &nbsp;🎉🎉 It's an honor to become the recipient of the <b>IEEE SMC Society Andrew P. Sage Best Transactions Paper Award</b>. Congrats to Myself!</li>
-<li class="news-item">- <em>2024.09</em>: &nbsp;🎉🎉One Demo Paper about WiFi-based Malicious Camera Detection accepted by <b>ACM Mobicom</b>. Congrats to Myself!</li>
-<li class="news-item">- <em>2025.03</em>: &nbsp;🎉🎉 One Paper about Watermark Updating accepted by IEEE ICME 2025. Congrats to Yanyan Liu!</li>
-<li class="news-item">- <em>2025.03</em>: &nbsp;🎉🎉 One Paper about WiFi-based domain adaption gesture recognition accepted by IEEE IOTJ. Congrats to Huan Yan!</li>
-<li class="news-item">- <em>2025.03</em>: &nbsp;🎉🎉 Invited to serve as a TPC member for IEEE Globecom 2025 (CCF C).</li>
-<li class="news-item">- <em>2024.12</em>: &nbsp;🎉🎉 One Paper about WiFi-based Respiratory Healthcare accepted by IEEE Network. Congrats to Meng Wang!</li>
-<li class="news-item">- <em>2024.10</em>: &nbsp;🎉🎉 One Paper about WiFi-based Pulmonary Function Testing accepted by IEEE IOTJ. Congrats to Peng Zhao!</li>
-
-<button class="toggle-button" onclick="toggleNews()" id="toggle-btn">More</button>
-
-<script>
-function toggleNews() {
-    const newsItems = document.querySelectorAll('.news-item');
-    const button = document.getElementById('toggle-btn');
-    const hiddenItems = document.querySelectorAll('.news-item.hidden');
-    
-    if (hiddenItems.length > 0) {
-        // 显示所有隐藏的条目
-        hiddenItems.forEach(item => item.classList.remove('hidden'));
-        button.textContent = 'Fold';
-    } else {
-        // 隐藏第12个之后的条目
-        newsItems.forEach((item, index) => {
-            if (index >= 12) {
-                item.classList.add('hidden');
-            }
-        });
-        button.textContent = 'More';
-    }
-}
-
-// 页面加载时隐藏第12个之后的条目
-document.addEventListener('DOMContentLoaded', function() {
-    const newsItems = document.querySelectorAll('.news-item');
-    newsItems.forEach((item, index) => {
-        if (index >= 12) {
-            item.classList.add('hidden');
-        }
-    });
-  });
-</script>
-
-
-<!-- # 🔥 News
-- *2025.09*: &nbsp;🎉🎉One Papers accepted by <b>NIPS DB Track</b> 2025. Congrats to Kuocheng Wu and Guohang Zhuang! -->
-
-<br><br>
-
-<h1>📝 Publications</h1>
+#📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Usenix Security 2025</div><img src='images/DiffLoc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
