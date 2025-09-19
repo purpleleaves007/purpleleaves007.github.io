@@ -44,11 +44,11 @@ My research interest includes IOT security, wireless sensing, and affective comp
 
   <ul>
 
-  <li> *2025.03*: 🎉🎉 One Paper about Watermark Updating accepted by IEEE ICME 2025. Congrats to Yanyan Liu!</li>
-  <li> *2025.03*: 🎉🎉 One Paper about WiFi-based domain adaption gesture recognition accepted by IEEE IOTJ. Congrats to Huan Yan!</li>
-  <li> *2025.03*: 🎉🎉 Invited to serve as a TPC member for IEEE Globecom 2025 (CCF C).</li>
-  <li> *2024.12*: 🎉🎉 One Paper about WiFi-based Respiratory Healthcare accepted by IEEE Network. Congrats to Meng Wang!</li>
-  <li> *2024.10*: 🎉🎉 One Paper about WiFi-based Pulmonary Function Testing accepted by IEEE IOTJ. Congrats to Peng Zhao!</li>
+  <li> 2025.03: 🎉🎉 One Paper about Watermark Updating accepted by IEEE ICME 2025. Congrats to Yanyan Liu!</li>
+  <li> 2025.03: 🎉🎉 One Paper about WiFi-based domain adaption gesture recognition accepted by IEEE IOTJ. Congrats to Huan Yan!</li>
+  <li> 2025.03: 🎉🎉 Invited to serve as a TPC member for IEEE Globecom 2025 (CCF C).</li>
+  <li> 2024.12: 🎉🎉 One Paper about WiFi-based Respiratory Healthcare accepted by IEEE Network. Congrats to Meng Wang!</li>
+  <li> 2024.10: 🎉🎉 One Paper about WiFi-based Pulmonary Function Testing accepted by IEEE IOTJ. Congrats to Peng Zhao!</li>
 
   </ul>
 </details>
