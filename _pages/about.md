@@ -37,11 +37,14 @@ My research interest includes IOT security, wireless sensing, and affective comp
 - *2025.03*: &nbsp;🎉🎉 One Paper about Noise Robust Facial Expression Recognition accepted by **IEEE TAFFC**. Congrats to Myself!
 - *2025.02*: &nbsp;🎉🎉 Invited to serve as a TPC member for IEEE Globecom 2025 (CCF C).
 - *2025.01*: &nbsp;🎉🎉 One Paper about WiFi-based Gesture Recognition accepted by **IEEE THMS**. Congrats to Myself!
+<details>
+  <summary>Older news (click to expand)</summary>
 - *2024.12*: &nbsp;🎉🎉 One Paper about WiFi-based Respiratory Healthcare accepted by IEEE Network. Congrats to Meng Wang!
 - *2024.11*: &nbsp;🎉🎉 It's an honor to become the recipient of the **IEEE HITC Distinguished Phd Dissertation Award**. Congrats to Myself!
 - *2024.10*: &nbsp;🎉🎉 One Paper about WiFi-based Pulmonary Function Testing accepted by IEEE IOTJ. Congrats to Peng Zhao!
 - *2024.10*: &nbsp;🎉🎉 It's an honor to become the recipient of the **IEEE SMC Society Andrew P. Sage Best Transactions Paper Award**. Congrats to Myself!
 - *2024.09*: &nbsp;🎉🎉One Demo Paper about WiFi-based Malicious Camera Detection accepted by **ACM Mobicom**. Congrats to Myself!
+</details>
 
 # 📝 Publications 
 
