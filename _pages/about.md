@@ -113,7 +113,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <!-- # 🔥 News
 - *2025.09*: &nbsp;🎉🎉One Papers accepted by <b>NIPS DB Track</b> 2025. Congrats to Kuocheng Wu and Guohang Zhuang! -->
 
-# 📝 Publications 
+<br><br>
+
+<h1>📝 Publications</h1>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Usenix Security 2025</div><img src='images/DiffLoc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
