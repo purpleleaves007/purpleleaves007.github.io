@@ -128,7 +128,8 @@ Mobile Computing and Networking, ACM Mobicom 2024, Demo**. `CCF A`
 - *2020.09* China Scholarship Council (Joint Doctoral Program), China Scholarship Council.
 - *2019.10* National Scholarship, Ministry of Education of P. R. China, Ph.D.
 
-# 📖 Educations
+# 📖 Educations and Works
+- *2023.06 - 2025.09*, Postdocal Fellow, University of Science and Technology of China, Hefei, China.
 - *2017.06 - 2023.05*, Master and Phd, Hefei University of Technology, Hefei, China. 
 - *2013.09 - 2017.06*, Undergraduate, Hefei University of Technology, Hefei, China.
 
