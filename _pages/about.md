@@ -35,7 +35,7 @@ My research interest includes IOT security, wireless sensing, and affective comp
 - *2025.03*: 🎉🎉 One Paper about Wireless Hidden Camera Localization accepted by **IEEE S&P 2025**. Congrats to Myself!
 - *2025.03*: 🎉🎉 One Paper about Noise Robust Facial Expression Recognition accepted by **IEEE TAFFC**. Congrats to Myself!
 - *2025.01*: 🎉🎉 One Paper about WiFi-based Gesture Recognition accepted by **IEEE THMS**. Congrats to Myself!
-- *2024.11*: 🎉🎉 It's an honor to become the recipient of the **IEEE HITC Distinguished PhD Dissertation Award**. Congrats to Myself!
+- *2024.11*: 🎉🎉 It's an honor to become the recipient of the **[IEEE HITC Distinguished PhD Dissertation Award](https://ieee-hyperintelligence.org/award)**. Congrats to Myself!
 - *2024.10*: 🎉🎉 It's an honor to become the recipient of the **[IEEE SMC Society Andrew P. Sage Best Transactions Paper Award](https://www.ieeesmc.org/about-smcs/awards/andrew-p-sage-best-transactions-paper/)**. Congrats to Myself!
 - *2024.09*: 🎉🎉 One Demo Paper about WiFi-based Malicious Camera Detection accepted by **ACM Mobicom**. Congrats to Myself!
 
@@ -122,9 +122,9 @@ Mobile Computing and Networking, ACM Mobicom 2024, Demo**. `CCF A`
 - [BeSense: Leveraging WiFi channel data and computational intelligence for behavior analysis](https://ieeexplore.ieee.org/abstract/document/8870275),Yu Gu, **Xiang Zhang**, Zhi Liu, Fuji Ren, **IEEE Computational Intelligence Magazine 2019** `JCR Q1, IF = 11.2`
 
 # 🎖 Honors and Awards
-- *2025.07* IEEE ICME 2025 Best Paper Award Nomination.
-- *2024.11* IEEE HITC Distinguished Phd Dissertation Award. 
-- *2024.10* IEEE SMC Society Andrew P. Sage Best Transactions Paper Award (The corresponding author).
+- *2025.07* **[IEEE ICME 2025 Best Paper Award Nomination](https://2025.ieeeicme.org/awards/)**.
+- *2024.11* **[IEEE HITC Distinguished Phd Dissertation Award](https://ieee-hyperintelligence.org/award)**. 
+- *2024.10* **[IEEE SMC Society Andrew P. Sage Best Transactions Paper Award (The corresponding author)](https://www.ieeesmc.org/about-smcs/awards/andrew-p-sage-best-transactions-paper/)**.
 - *2020.09* China Scholarship Council (Joint Doctoral Program), China Scholarship Council.
 - *2019.10* National Scholarship, Ministry of Education of P. R. China, Ph.D.
 
