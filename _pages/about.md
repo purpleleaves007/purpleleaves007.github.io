@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<!-- 我9月即将入职天津大学网安学院任副教授，主攻物联网安全，智能感知，信息物理系统及其安全等方向。如果对我的研究方向感兴趣并希望攻读硕士学位或有意进行科研方面的交流合作欢迎联系我。 -->
+我于10月入职天津大学网安学院任副教授，主攻物联网安全，智能感知，信息物理系统及其安全等方向。如果对我的研究方向感兴趣并希望攻读硕士学位或有意进行科研方面的交流合作欢迎联系我。
 
 I am currently an Associate Professor at the School of Cyber Security, Tianjin University, Tianjin, China. I received the B.E. degree from Hefei University of Technology, China, in 2017, and my D.E. degree from the same university in 2023, supervised by Prof.[Meng Wang](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm) and Prof.[Yu Gu](https://www.scse.uestc.edu.cn/info/1081/15382.htm). During my doctoral period, I receive a CSC scholarship, and I am guided by Prof.[Yusheng Ji](https://klab.nii.ac.jp/) from National Institute of Informatics, Japan.
 
 My research interests include IoT security, wireless sensing, affective computing, cyber-physical systems and their security, as well as human-machine systems and their security. I am committed to pursuing new topics and making meaningful contributions in the areas of security and privacy for cyber-physical and human-machine systems. I have published 30+ papers <a href='https://scholar.google.com/citations?user=mz4NUCAAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpurpleleaves007%2Fpurpleleaves007.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&amp;logo=Google%20Scholar&amp;labelColor=f6f6f6&amp;color=9cf&amp;style=flat&amp;label=citations"></a> at top international conferences and journals, including IEEE Symposium on Security and Privacy (S&P), USENIX Security, ACM MobiCom, IEEE Transactions on Information Forensics and Security (TIFS), and IEEE Transactions on Human-Machine Systems (THMS). I'm the recipient of the **IEEE SMC Society Andrew P. Sage Best Transactions Paper Award**, the **IEEE HITC Distinguished Phd Dissertation Award**, and the  **IEEE ICME 2025 Best Paper Award Nomination**.
 
 
-<!-- # 🔥 News
+# 🔥 News
 
 - *2025.09*: 🎉🎉 One Paper about AI for astronomy accepted by **NIPS DB Track 2025**, and has been selected as **spotlight paper**. Congrats to Kuocheng Wu and Guohang Zhuang!
 - *2025.08*: 🎉🎉 Two Papers accepted by IEEE Globecom 2025. Congrats to Yelin Wei and Jian Liu!
@@ -51,7 +51,7 @@ My research interests include IoT security, wireless sensing, affective computin
   <li> 2024.10: 🎉🎉 One Paper about WiFi-based Pulmonary Function Testing accepted by IEEE IOTJ. Congrats to Peng Zhao!</li>
 
   </ul>
-</details>  -->
+</details>
 
 # 📝 Publications
 
