@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "章翔/Xiang Zhang"
+  name             : "Xiang Zhang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "天津大学/Tianjin University, 副教授/Associate Professor"
+  bio              : "Tianjin University, Associate Professor"
   location         : "Tianjin, China"
   employer         :
   pubmed           : 
