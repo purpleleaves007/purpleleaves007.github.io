@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我于10月入职天津大学网安学院任副教授，主攻物联网安全，智能感知，信息物理系统及其安全等方向。如果对我的研究方向感兴趣并希望攻读硕士学位或有意进行科研方面的交流合作欢迎联系我。
+我现在任天津大学网安学院任副教授，主攻物联网安全，智能感知，信息物理系统及其安全等方向。如果对我的研究方向感兴趣并希望攻读硕士学位或有意进行科研方面的交流合作欢迎联系我。
 
 I am currently an Associate Professor at the School of Cyber Security, Tianjin University, Tianjin, China. I received the B.E. degree from Hefei University of Technology, China, in 2017, and my D.E. degree from the same university in 2023, supervised by Prof.[Meng Wang](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm) and Prof.[Yu Gu](https://www.scse.uestc.edu.cn/info/1081/15382.htm). During my doctoral period, I receive a CSC scholarship, and I am guided by Prof.[Yusheng Ji](https://klab.nii.ac.jp/) from National Institute of Informatics, Japan.
 
@@ -26,6 +26,7 @@ My research interests include IoT security, wireless sensing, affective computin
 
 # 🔥 News
 
+- *2025.10*: 🎉🎉 I have joined the School of Cyber Security at Tianjin University as a tenured Associate Professor.
 - *2025.09*: 🎉🎉 One Paper about AI for astronomy accepted by **NIPS DB Track 2025**, and has been selected as **spotlight paper**. Congrats to Kuocheng Wu and Guohang Zhuang!
 - *2025.08*: 🎉🎉 Two Papers accepted by IEEE Globecom 2025. Congrats to Yelin Wei and Jian Liu!
 - *2025.07*: 🎉🎉 Our Watermark Updating Framework has been selected as [**Candidates of Best Paper**](https://2025.ieeeicme.org/awards/) (one of the Top 15 Papers) in ICME 2025. Congrats to Yanyan Liu!
@@ -37,13 +38,13 @@ My research interests include IoT security, wireless sensing, affective computin
 - *2025.01*: 🎉🎉 One Paper about WiFi-based Gesture Recognition accepted by **IEEE THMS**. Congrats to Myself!
 - *2024.11*: 🎉🎉 It's an honor to become the recipient of the **[IEEE HITC Distinguished PhD Dissertation Award](https://ieee-hyperintelligence.org/award)**. Congrats to Myself!
 - *2024.10*: 🎉🎉 It's an honor to become the recipient of the **[IEEE SMC Society Andrew P. Sage Best Transactions Paper Award](https://www.ieeesmc.org/about-smcs/awards/andrew-p-sage-best-transactions-paper/)**. Congrats to Myself!
-- *2024.09*: 🎉🎉 One Demo Paper about WiFi-based Malicious Camera Detection accepted by **ACM Mobicom**. Congrats to Myself!
 
 <details>
   <summary>More News ...</summary>
 
   <ul>
 
+  <li> 2024.09: 🎉🎉 One Demo Paper about WiFi-based Malicious Camera Detection accepted by **ACM Mobicom**. Congrats to Myself!</li>
   <li> 2025.03: 🎉🎉 One Paper about Watermark Updating accepted by IEEE ICME 2025. Congrats to Yanyan Liu!</li>
   <li> 2025.03: 🎉🎉 One Paper about WiFi-based domain adaption gesture recognition accepted by IEEE IOTJ. Congrats to Huan Yan!</li>
   <li> 2025.03: 🎉🎉 Invited to serve as a TPC member for IEEE Globecom 2025 (CCF C).</li>
