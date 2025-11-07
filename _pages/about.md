@@ -91,7 +91,7 @@ Yu Gu, **Xiang Zhang\***, Yantong Wang, Meng Wang, Huan Yan, Yusheng Ji, Zhi Liu
 </div>
 </div>
   
-## 📚 Conferences
+## 🎙 Conferences
 - [DiffLoc: WiFi Hidden Camera Localization Based on Electromagnetic Diffraction](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-xiang), **Xiang Zhang**, Jie Zhang, Huan Yan, Jinyang Huang, Zehua Ma, Bin Liu, Meng Li, Kejiang Chen, Qing Guo, Tianwei Zhang, and Zhi Liu, **The 34th USENIX Security Symposium, Usenix Security 2025**. `CCF A (407/2385=17.1%)`
 - [CamLoPa: A Hidden Wireless Camera Localization Framework via Signal Propagation Path Analysis](https://www.computer.org/csdl/proceedings-article/sp/2025/223600d376/26hiVtI5Xoc), **Xiang Zhang**, Jie Zhang, Zehua Ma, Jinyang Huang, Meng Li, Huan Yan, Peng Zhao, Zijian Zhang, Bin Liu, Qing Guo, Tianwei Zhang, and Nenghai Yu, **IEEE Symposium on Security and Privacy, IEEE S&P 2025**. `CCF A (257/1740=14.8%)`
 - [STAR: A Benchmark for Astronomical Star Fields Super-Resolution](https://arxiv.org/abs/2507.16385), Kuocheng Wu, Guohang Zhuang, Jinyang Huang, **Xiang Zhang**, Wanli Ouyang, Yan Lu, **NeurIPS 2025 Datasets and Benchmarks Track**, Accepted. `CCF A, Spotlight (56/1995=2.81%)`
@@ -106,7 +106,7 @@ Mobile Computing and Networking, ACM Mobicom 2024, Demo**. `CCF A`
 - [Wifi-based real-time breathing and heart rate monitoring during sleep](https://ieeexplore.ieee.org/abstract/document/9014297), Yu Gu, **Xiang Zhang**, Zhi Liu, Fuji Ren, **IEEE Global Communications Conference, IEEE Globecom 2019**. `CCF C`
 - [Your wifi knows how you behave: Leveraging wifi channel data for behavior analysis](https://ieeexplore.ieee.org/abstract/document/8647547), Yu Gu, **Xiang Zhang**, Chao Li, Fuji Ren, Jie Li, Zhi Liu, **IEEE Global Communications Conference, IEEE Globecom 2018**. `CCF C`
 
-## 🎙 Journals
+## 🧾 Journals
 - [ReSup: Reliable Label Noise Suppression for Facial Expression Recognition](https://ieeexplore.ieee.org/document/10916982), **Xiang Zhang**,	Yan Lu, Huan Yan, Jinyang Huang, Yu Gu, Yusheng Ji, Zhi Liu, Bin Liu, **IEEE Transactions on Affective Computing 2025** `CCF B, JCR Q1, IF = 9.8`
 - [WiOpen: A Robust Wi-Fi-based Open-set Gesture Recognition Framework](https://ieeexplore.ieee.org/document/10899398), **Xiang Zhang**,	Jinyang Huang, Huan Yan, Yuanhao Feng, Peng Zhao, Guohang Zhuang, Zhi Liu, Bin Liu, **IEEE Transactions on Human-Machine Systems 2025** `CCF B, JCR Q1, IF = 4.4`
 - [Wi-SFDAGR: WiFi-based Cross-Domain Gesture Recognition via Source-free Domain Adaptation](https://ieeexplore.ieee.org/document/10938146), Huan Yan, **Xiang Zhang\***, Jinyang Huang, Yuanhao Feng, Meng Li, Anzhi Wang, Weihua Ou, Hongbing Wang, Zhi Liu, **IEEE Internet of Things Journal 2025** `CCF C, JCR Q1, IF = 8.9`
@@ -130,12 +130,15 @@ Mobile Computing and Networking, ACM Mobicom 2024, Demo**. `CCF A`
 - *2020.09* China Scholarship Council (Joint Doctoral Program), China Scholarship Council.
 - *2019.10* National Scholarship, Ministry of Education of P. R. China, Ph.D.
 
-# 📖 Educations and Works
+# 🧪 Fundings
+- *2026.01 - 2029.12*, NSFC Young Scientists Fund (Category C) — Research on Anti-WiFi Sensing Side-Channel Attack Strategies Based on Cross-Technology Interference, Grant No. 62502482, ¥300000.
+
+# 🏛️ Educations and Works
 - *2023.06 - 2025.09*, Postdocal Fellow, University of Science and Technology of China, Hefei, China.
 - *2017.06 - 2023.05*, Master and Phd, Hefei University of Technology, Hefei, China. 
 - *2013.09 - 2017.06*, Undergraduate, Hefei University of Technology, Hefei, China.
 
-# 🧑‍🎨 TPC Member and Reviewers
+# 🧑‍🎨 TPC Member, Editor and Reviewers
 - IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA 2025, **Publication Chair**)
 - ACM Multimedia(MM 2024)
 - IEEE Global Communications Conference (GLOBECOM 2023,2024,2025, TPC)
