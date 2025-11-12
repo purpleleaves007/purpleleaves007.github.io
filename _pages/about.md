@@ -26,6 +26,7 @@ My research interests include IoT security, wireless sensing, affective computin
 
 # 🔥 News
 
+- *2025.11*: 🎉🎉 One Paper about WiFi-based gesture recognition accepted by **AAAI 2026**. Congrats to Ruobei Zhang and Shengeng Tang!
 - *2025.11*: 🎉🎉 As the Lead Guest Editor, I have launched a [Special Issue: Emerging Challenges and Innovations in IoT Security and Privacy in Electronics](https://www.mdpi.com/journal/electronics/special_issues/AMEWN42W8U) and warmly welcome your submissions.
 - *2025.10*: 🎉🎉 I have joined the School of Cyber Security at Tianjin University as a tenured Associate Professor.
 - *2025.09*: 🎉🎉 One Paper about AI for astronomy accepted by **NIPS DB Track 2025**, and has been selected as **spotlight paper**. Congrats to Kuocheng Wu and Guohang Zhuang!
@@ -92,6 +93,7 @@ Yu Gu, **Xiang Zhang\***, Yantong Wang, Meng Wang, Huan Yan, Yusheng Ji, Zhi Liu
 </div>
   
 ## 🎙 Conferences
+- [Wi-CBR: WiFi-based Cross-domain Behavior Recognition via Multimodal Collaborative Awareness](https://arxiv.org/abs/2506.11616), Ruobei Zhang, Shengeng Tang, Huan Yan, **Xiang Zhang**, Richang Hong, **The 40th Annual AAAI Conference on Artificial Intelligence, AAAI 2026**, Accepted. `CCF A`
 - [DiffLoc: WiFi Hidden Camera Localization Based on Electromagnetic Diffraction](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-xiang), **Xiang Zhang**, Jie Zhang, Huan Yan, Jinyang Huang, Zehua Ma, Bin Liu, Meng Li, Kejiang Chen, Qing Guo, Tianwei Zhang, and Zhi Liu, **The 34th USENIX Security Symposium, Usenix Security 2025**. `CCF A (407/2385=17.1%)`
 - [CamLoPa: A Hidden Wireless Camera Localization Framework via Signal Propagation Path Analysis](https://www.computer.org/csdl/proceedings-article/sp/2025/223600d376/26hiVtI5Xoc), **Xiang Zhang**, Jie Zhang, Zehua Ma, Jinyang Huang, Meng Li, Huan Yan, Peng Zhao, Zijian Zhang, Bin Liu, Qing Guo, Tianwei Zhang, and Nenghai Yu, **IEEE Symposium on Security and Privacy, IEEE S&P 2025**. `CCF A (257/1740=14.8%)`
 - [STAR: A Benchmark for Astronomical Star Fields Super-Resolution](https://arxiv.org/abs/2507.16385), Kuocheng Wu, Guohang Zhuang, Jinyang Huang, **Xiang Zhang**, Wanli Ouyang, Yan Lu, **NeurIPS 2025 Datasets and Benchmarks Track**, Accepted. `CCF A, Spotlight (56/1995=2.81%)`
@@ -154,4 +156,4 @@ Mobile Computing and Networking, ACM Mobicom 2024, Demo**. `CCF A`
 - ACM Transactions on Embedded Computing Systems
 - IEEE Transactions on Network and Service Management
 - IEEE Transactions on Artificial Intelligence
-- Electronics Special Issue: Emerging Challenges and Innovations in IoT Security and Privacy (Lead Guest Editor)
+- Electronics Special Issue: Emerging Challenges and Innovations in IoT Security and Privacy (**Lead Guest Editor**)
