@@ -26,10 +26,10 @@ My research interests include IoT security, wireless sensing, affective computin
 
 # 🔥 News
 
-- *2025.11*: 🎉🎉 Invited to serve as a member of Artifact Evaluation Committee (AEC) for **USenix Security 2026**.
+- *2025.11*: 🎉🎉 Invited to serve as a member of Artifact Evaluation Committee (AEC) for **Usenix Security 2026**.
 - *2025.11*: 🎉🎉 One Paper about WiFi-based gesture recognition accepted by **AAAI 2026**. Congrats to Ruobei Zhang and Shengeng Tang!
 - *2025.11*: 🎉🎉 As the Lead Guest Editor, I have launched a [Special Issue: Emerging Challenges and Innovations in IoT Security and Privacy in Electronics](https://www.mdpi.com/journal/electronics/special_issues/AMEWN42W8U) and warmly welcome your submissions.
-- *2025.10*: 🎉🎉 I have joined the School of Cyber Security at Tianjin University as a tenured Associate Professor.
+- *2025.10*: 🎉🎉 I have joined the School of Cyber Security at **Tianjin University** as a tenured **Associate Professor**.
 - *2025.09*: 🎉🎉 One Paper about AI for astronomy accepted by **NIPS DB Track 2025**, and has been selected as **spotlight paper**. Congrats to Kuocheng Wu and Guohang Zhuang!
 - *2025.07*: 🎉🎉 Our Watermark Updating Framework has been selected as [**Candidates of Best Paper**](https://2025.ieeeicme.org/awards/) (one of the Top 15 Papers) in ICME 2025. Congrats to Yanyan Liu!
 - *2025.06*: 🎉🎉 One Paper about WiFi Hidden Camera Localization accepted by **Usenix Security 2025**. Congrats to Myself!
