@@ -26,11 +26,11 @@ My research interests include IoT security, wireless sensing, affective computin
 
 # 🔥 News
 
+- *2025.11*: 🎉🎉 Invited to serve as a member of Artifact Evaluation Committee (AEC) for **USenix Security 2026**.
 - *2025.11*: 🎉🎉 One Paper about WiFi-based gesture recognition accepted by **AAAI 2026**. Congrats to Ruobei Zhang and Shengeng Tang!
 - *2025.11*: 🎉🎉 As the Lead Guest Editor, I have launched a [Special Issue: Emerging Challenges and Innovations in IoT Security and Privacy in Electronics](https://www.mdpi.com/journal/electronics/special_issues/AMEWN42W8U) and warmly welcome your submissions.
 - *2025.10*: 🎉🎉 I have joined the School of Cyber Security at Tianjin University as a tenured Associate Professor.
 - *2025.09*: 🎉🎉 One Paper about AI for astronomy accepted by **NIPS DB Track 2025**, and has been selected as **spotlight paper**. Congrats to Kuocheng Wu and Guohang Zhuang!
-- *2025.08*: 🎉🎉 Two Papers accepted by IEEE Globecom 2025. Congrats to Yelin Wei and Jian Liu!
 - *2025.07*: 🎉🎉 Our Watermark Updating Framework has been selected as [**Candidates of Best Paper**](https://2025.ieeeicme.org/awards/) (one of the Top 15 Papers) in ICME 2025. Congrats to Yanyan Liu!
 - *2025.06*: 🎉🎉 One Paper about WiFi Hidden Camera Localization accepted by **Usenix Security 2025**. Congrats to Myself!
 - *2025.05*: 🎉🎉 One Paper about RFID Sensing accepted by **ACM TOSN**. Congrats to Yuanhao Feng!
@@ -46,6 +46,7 @@ My research interests include IoT security, wireless sensing, affective computin
 
   <ul>
 
+  <li> 025.08: 🎉🎉 Two Papers accepted by IEEE Globecom 2025. Congrats to Yelin Wei and Jian Liu!</li>
   <li> 2024.09: 🎉🎉 One Demo Paper about WiFi-based Malicious Camera Detection accepted by **ACM Mobicom**. Congrats to Myself!</li>
   <li> 2025.03: 🎉🎉 One Paper about Watermark Updating accepted by IEEE ICME 2025. Congrats to Yanyan Liu!</li>
   <li> 2025.03: 🎉🎉 One Paper about WiFi-based domain adaption gesture recognition accepted by IEEE IOTJ. Congrats to Huan Yan!</li>
@@ -142,6 +143,7 @@ Mobile Computing and Networking, ACM Mobicom 2024, Demo**. `CCF A`
 
 # 🧑‍🎨 TPC Member, Editor and Reviewers
 - IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA 2025, **Publication Chair**)
+- Usenix Security Symposium(Sec 2026, AEC)
 - ACM Multimedia(MM 2024)
 - IEEE Global Communications Conference (GLOBECOM 2023,2024,2025, TPC)
 - IEEE International Conference on Multimedia and Expo (ICME 2023,2025)
