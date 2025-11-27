@@ -26,6 +26,8 @@ My research interests include IoT security, wireless sensing, affective computin
 
 # 🔥 News
 
+- *2025.11*: 🎉🎉 Invited to serve as an **Area Chair (AC)** for IEEE ICME 2026.
+- *2025.11*: 🎉🎉 One Paper about WiFi-based 3D Pose Estimation conditional accepted by **ACM Mobicom 2026**. Congrats to Songming Jia (My Master Student)!
 - *2025.11*: 🎉🎉 Invited to serve as a member of Artifact Evaluation Committee (AEC) for **Usenix Security 2026**.
 - *2025.11*: 🎉🎉 One Paper about WiFi-based gesture recognition accepted by **AAAI 2026**. Congrats to Ruobei Zhang and Shengeng Tang!
 - *2025.11*: 🎉🎉 As the Lead Guest Editor, I have launched a [Special Issue: Emerging Challenges and Innovations in IoT Security and Privacy in Electronics](https://www.mdpi.com/journal/electronics/special_issues/AMEWN42W8U) and warmly welcome your submissions.
