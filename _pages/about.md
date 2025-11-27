@@ -146,6 +146,7 @@ Mobile Computing and Networking, ACM Mobicom 2024, Demo**. `CCF A`
 # 🧑‍🎨 TPC Member, Editor and Reviewers
 - IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA 2025, **Publication Chair**)
 - Usenix Security Symposium(Sec 2026, AEC)
+- IEEE International Conference on Multimedia and Expo (ICME 2026, Area Chair)
 - ACM Multimedia(MM 2024)
 - IEEE Global Communications Conference (GLOBECOM 2023,2024,2025, TPC)
 - IEEE International Conference on Multimedia and Expo (ICME 2023,2025)
