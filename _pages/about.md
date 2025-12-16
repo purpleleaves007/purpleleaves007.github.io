@@ -97,10 +97,10 @@ Yu Gu, **Xiang Zhang\***, Yantong Wang, Meng Wang, Huan Yan, Yusheng Ji, Zhi Liu
   
 ## 🎙 Conferences
 - Breaking Coordinate Overfitting: Geometry-Aware WiFi Sensing for Cross-Domain 3D Pose Estimation, Songming Jia<sup>†</sup>, Yan Lu<sup>†</sup>, Bin Liu*, **Xiang Zhang<sup>†</sup>\***, Peng Zhao, Xinmeng Tang, Yelin Wei , Jinyang Huang, Huan Yan, Zhi Liu, **ACM Annual International Conference on Mobile Computing and Networking, ACM Mobicom 2026**. `CCF A  (Accept Rate=11%)`
-- [Wi-CBR: WiFi-based Cross-domain Behavior Recognition via Multimodal Collaborative Awareness](https://arxiv.org/abs/2506.11616), Ruobei Zhang, Shengeng Tang, Huan Yan, **Xiang Zhang**, Richang Hong, **The 40th Annual AAAI Conference on Artificial Intelligence, AAAI 2026**, Accepted. `CCF A`
+- [Wi-CBR: WiFi-based Cross-domain Behavior Recognition via Multimodal Collaborative Awareness](https://arxiv.org/abs/2506.11616), Ruobei Zhang, Shengeng Tang, Huan Yan, **Xiang Zhang**, Richang Hong, **The 40th Annual AAAI Conference on Artificial Intelligence, AAAI 2026**. `CCF A`
 - [DiffLoc: WiFi Hidden Camera Localization Based on Electromagnetic Diffraction](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-xiang), **Xiang Zhang**, Jie Zhang, Huan Yan, Jinyang Huang, Zehua Ma, Bin Liu, Meng Li, Kejiang Chen, Qing Guo, Tianwei Zhang, and Zhi Liu, **The 34th USENIX Security Symposium, Usenix Security 2025**. `CCF A (407/2385=17.1%)`
 - [CamLoPa: A Hidden Wireless Camera Localization Framework via Signal Propagation Path Analysis](https://www.computer.org/csdl/proceedings-article/sp/2025/223600d376/26hiVtI5Xoc), **Xiang Zhang**, Jie Zhang, Zehua Ma, Jinyang Huang, Meng Li, Huan Yan, Peng Zhao, Zijian Zhang, Bin Liu, Qing Guo, Tianwei Zhang, and Nenghai Yu, **IEEE Symposium on Security and Privacy, IEEE S&P 2025**. `CCF A (257/1740=14.8%)`
-- [STAR: A Benchmark for Astronomical Star Fields Super-Resolution](https://arxiv.org/abs/2507.16385), Kuocheng Wu, Guohang Zhuang, Jinyang Huang, **Xiang Zhang**, Wanli Ouyang, Yan Lu, **NeurIPS 2025 Datasets and Benchmarks Track**, Accepted. `CCF A, Spotlight (56/1995=2.81%)`
+- [STAR: A Benchmark for Astronomical Star Fields Super-Resolution](https://arxiv.org/abs/2507.16385), Kuocheng Wu, Guohang Zhuang, Jinyang Huang, **Xiang Zhang**, Wanli Ouyang, Yan Lu, **NeurIPS 2025 Datasets and Benchmarks Track**. `CCF A, Spotlight (56/1995=2.81%)`
 - [A Watermark Updating Framework for Multi-stage Image Content Distribution](https://afbix45521e79b0484907s0xqpv0uoxqkw6kx6fiiz.eds.tju.edu.cn/document/11209064), Yanyan Liu, Bin Liu, Jie Zhang, **Xiang Zhang**, Zehua Ma, Nenghai Yu, **IEEE International Conference on Multimedia & Expo, IEEE ICME 2025**. `CCF B (Best Paper Award Nomination, 15/3737=0.4%)`
 - [Hidden WiFi Camera Localization via Signal Propagation Path Analysis](https://dl.acm.org/doi/abs/10.1145/3636534.3698834), **Xiang Zhang**, Zehua Ma, Jinyang Huang, Huan Yan, Meng Li, Zhi Liu, Bin Liu, **ACM Annual International Conference on Mobile Computing and Networking, ACM Mobicom 2024, Demo**. `CCF A`
 - [FacialPulse: An Efficient RNN-based Depression Detection via Temporal Facial Landmarks](https://dl.acm.org/doi/abs/10.1145/3664647.3681546), Ruiqi Wang, Jinyang Huang, Jie Zhang, Xin Liu, **Xiang Zhang**, Zhi Liu, Peng Zhao, Sigui Chen, Xiao Sun, **ACM Multimedia, ACM MM 2024**. `CCF A (Oral Paper, 174/4385=3.97%)`
@@ -141,6 +141,7 @@ Yu Gu, **Xiang Zhang\***, Yantong Wang, Meng Wang, Huan Yan, Yusheng Ji, Zhi Liu
 - *2026.01 - 2029.12*, NSFC Young Scientists Fund (Category C) — Research on Anti-WiFi Sensing Side-Channel Attack Strategies Based on Cross-Technology Interference, Grant No. 62502482, ¥300000.
 
 # 🏛️ Educations and Works
+- *2025.10 - *, Associate Professor, Tianjin University, Tianjin, China.
 - *2023.06 - 2025.09*, Postdocal Fellow, University of Science and Technology of China, Hefei, China.
 - *2017.06 - 2023.05*, Master and Phd, Hefei University of Technology, Hefei, China. 
 - *2013.09 - 2017.06*, Undergraduate, Hefei University of Technology, Hefei, China.
@@ -150,10 +151,10 @@ Yu Gu, **Xiang Zhang\***, Yantong Wang, Meng Wang, Huan Yan, Yusheng Ji, Zhi Liu
 - Usenix Security Symposium(Sec 2026, AEC)
 - IEEE International Conference on Multimedia and Expo (ICME 2026, Area Chair)
 - ACM Multimedia(MM 2024)
-- IEEE Global Communications Conference (GLOBECOM 2023,2024,2025, TPC)
-- IEEE International Conference on Multimedia and Expo (ICME 2023,2025)
+- IEEE Global Communications Conference (GLOBECOM 2023-2025, TPC)
+- IEEE International Conference on Multimedia and Expo (ICME 2023,2025,2026)
 - ACM Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT 2024)
-- Annual Meeting of the Cognitive Science Society (CogSci 2025)
+- Annual Meeting of the Cognitive Science Society (CogSci 2025,2026)
 - IEEE Transactions on Affective Computing
 - IEEE Transactions on Human-Machine Systems
 - IEEE Transactions on Multimedia
