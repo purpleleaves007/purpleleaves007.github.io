@@ -158,6 +158,7 @@ Yu Gu, **Xiang Zhang\***, Yantong Wang, Meng Wang, Huan Yan, Yusheng Ji, Zhi Liu
 - IEEE International Conference on Multimedia and Expo (ICME 2023,2025,2026)
 - ACM Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT 2024)
 - Annual Meeting of the Cognitive Science Society (CogSci 2025,2026)
+- IEEE Transactions on Computers
 - IEEE Transactions on Affective Computing
 - IEEE Transactions on Human-Machine Systems
 - IEEE Transactions on Multimedia
