@@ -62,6 +62,16 @@ My research interests include wireless sensing, cyber-physical systems and their
 
 # 📝 Selected Publications (*: Correspondind Author; <sup>†</sup>: Equal Contribution)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Mobicom 2026</div><img src='images/PerceptAlign.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Breaking Coordinate Overfitting: Geometry-Aware WiFi Sensing for Cross-Domain 3D Pose Estimation
+
+Songming Jia<sup>†</sup>, Yan Lu<sup>†</sup>, Bin Liu*, **Xiang Zhang<sup>†</sup>\***, Peng Zhao, Xinmeng Tang, Yelin Wei , Jinyang Huang, Huan Yan, Zhi Liu, **ACM Mobicom 2026**.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Usenix Security 2025</div><img src='images/DiffLoc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
