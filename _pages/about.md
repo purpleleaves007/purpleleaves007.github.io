@@ -67,7 +67,7 @@ My research interests include wireless sensing, cyber-physical systems and their
 
 Breaking Coordinate Overfitting: Geometry-Aware WiFi Sensing for Cross-Domain 3D Pose Estimation
 
-Songming Jia<sup>†</sup>, Yan Lu<sup>†</sup>, Bin Liu*, **Xiang Zhang<sup>†</sup>\***, Peng Zhao, Xinmeng Tang, Yelin Wei , Jinyang Huang, Huan Yan, Zhi Liu, **ACM Mobicom 2026**.
+Songming Jia<sup>†</sup>, Yan Lu<sup>†</sup>, Bin Liu*, **Xiang Zhang<sup>†</sup>\***, Peng Zhao, Xinmeng Tang, Yelin Wei, Jinyang Huang, Huan Yan, Zhi Liu, **ACM Mobicom 2026**.
 
 </div>
 </div>
@@ -108,7 +108,7 @@ Yu Gu, **Xiang Zhang\***, Yantong Wang, Meng Wang, Huan Yan, Yusheng Ji, Zhi Liu
   
 ## 🎙 Conferences
 - [Beyond Physical Labels: Redefining Domains for Robust WiFi-based Gesture Recognition](https://arxiv.org/abs/2601.03825), **Xiang Zhang**, Huan Yan, Jinyang Huang, Bin Liu, Yuanhao Feng, Jianchun Liu, Meng Li, Fusang Zhang, and Zhi Liu, **Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, ACM IMWUT/Ubicomp 2026**. `CCF A`
-- Breaking Coordinate Overfitting: Geometry-Aware WiFi Sensing for Cross-Domain 3D Pose Estimation, Songming Jia<sup>†</sup>, Yan Lu<sup>†</sup>, Bin Liu*, **Xiang Zhang<sup>†</sup>\***, Peng Zhao, Xinmeng Tang, Yelin Wei , Jinyang Huang, Huan Yan, Zhi Liu, **ACM Annual International Conference on Mobile Computing and Networking, ACM Mobicom 2026**. `CCF A (Accept Rate=11%)`
+- Breaking Coordinate Overfitting: Geometry-Aware WiFi Sensing for Cross-Domain 3D Pose Estimation, Songming Jia<sup>†</sup>, Yan Lu<sup>†</sup>, Bin Liu*, **Xiang Zhang<sup>†</sup>\***, Peng Zhao, Xinmeng Tang, Yelin Wei, Jinyang Huang, Huan Yan, Zhi Liu, **ACM Annual International Conference on Mobile Computing and Networking, ACM Mobicom 2026**. `CCF A (Accept Rate=11%)`
 - [Wi-CBR: WiFi-based Cross-domain Behavior Recognition via Multimodal Collaborative Awareness](https://arxiv.org/abs/2506.11616), Ruobei Zhang, Shengeng Tang, Huan Yan, **Xiang Zhang**, Richang Hong, **The 40th Annual AAAI Conference on Artificial Intelligence, AAAI 2026**. `CCF A`
 - [DiffLoc: WiFi Hidden Camera Localization Based on Electromagnetic Diffraction](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-xiang), **Xiang Zhang**, Jie Zhang, Huan Yan, Jinyang Huang, Zehua Ma, Bin Liu, Meng Li, Kejiang Chen, Qing Guo, Tianwei Zhang, and Zhi Liu, **The 34th USENIX Security Symposium, Usenix Security 2025**. `CCF A (407/2385=17.1%)`
 - [CamLoPa: A Hidden Wireless Camera Localization Framework via Signal Propagation Path Analysis](https://www.computer.org/csdl/proceedings-article/sp/2025/223600d376/26hiVtI5Xoc), **Xiang Zhang**, Jie Zhang, Zehua Ma, Jinyang Huang, Meng Li, Huan Yan, Peng Zhao, Zijian Zhang, Bin Liu, Qing Guo, Tianwei Zhang, and Nenghai Yu, **IEEE Symposium on Security and Privacy, IEEE S&P 2025**. `CCF A (257/1740=14.8%)`
