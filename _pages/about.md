@@ -68,7 +68,7 @@ My research interests include wireless sensing, cyber-physical systems and their
 
 DiffLoc+: Towards Robust WiFi Hidden Camera Localization Based on Electromagnetic Diffraction
 
-Huan Yan, Jian Liu, **Xiang Zhang\***,, Zhi Liu, Bin Liu, Meng Li, Zheng Gong, Ming Gao, and Fusang Zhang, **IEEE JSAC 2026**.
+Huan Yan, Jian Liu, **Xiang Zhang\***, Zhi Liu, Bin Liu, Meng Li, Zheng Gong, Ming Gao, and Fusang Zhang, **IEEE JSAC 2026**.
 
 </div>
 </div>
