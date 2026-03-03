@@ -26,6 +26,8 @@ My research interests include wireless sensing, cyber-physical systems and their
 
 # 🔥 News
 
+- *2026.03*: 🎉🎉 One paper about WiFi Hidden Camera Localization accepted by **IEEE JSAC 2026**. Congrats to Huan Yan!
+- *2026.02*: 🎉🎉 One Paper about Handwriting Security accepted by **IEEE TDSC 2026**. Congrats to Jinyang Huang!
 - *2026.01*: 🎉🎉 One Paper about Physical-Informed Cross-Domain WiFi Gesture Recognition accepted by **ACM IMWUT/Ubicomp 2026**. Congrats to Myself!
 - *2025.11*: 🎉🎉 Invited to serve as an **Area Chair (AC)** for IEEE ICME 2026.
 - *2025.11*: 🎉🎉 One Paper about WiFi-based 3D Pose Estimation conditional accepted by **ACM Mobicom 2026**. Congrats to Songming Jia (My Master Student)!
@@ -40,7 +42,6 @@ My research interests include wireless sensing, cyber-physical systems and their
 - *2025.05*: 🎉🎉 Invited to serve as **Publication Chair** for **IEEE ISPA 2025 (CCF C)**.
 - *2025.03*: 🎉🎉 One Paper about Wireless Hidden Camera Localization accepted by **IEEE S&P 2025**. Congrats to Myself!
 - *2025.03*: 🎉🎉 One Paper about Noise Robust Facial Expression Recognition accepted by **IEEE TAFFC**. Congrats to Myself!
-- *2025.01*: 🎉🎉 One Paper about WiFi-based Gesture Recognition accepted by **IEEE THMS**. Congrats to Myself!
 - *2024.11*: 🎉🎉 It's an honor to become the recipient of the **[IEEE HITC Distinguished PhD Dissertation Award](https://ieee-hyperintelligence.org/award)**. Congrats to Myself!
 - *2024.10*: 🎉🎉 It's an honor to become the recipient of the **[IEEE SMC Society Andrew P. Sage Best Transactions Paper Award](https://www.ieeesmc.org/about-smcs/awards/andrew-p-sage-best-transactions-paper/)**. Congrats to Myself!
 
@@ -48,8 +49,8 @@ My research interests include wireless sensing, cyber-physical systems and their
   <summary>More News ...</summary>
 
   <ul>
-
-  <li> 025.08: 🎉🎉 Two Papers accepted by IEEE Globecom 2025. Congrats to Yelin Wei and Jian Liu!</li>
+  <li> 2025.01: 🎉🎉 One Paper about WiFi-based Gesture Recognition accepted by IEEE THMS. Congrats to Myself!</li>
+  <li> 2025.08: 🎉🎉 Two Papers accepted by IEEE Globecom 2025. Congrats to Yelin Wei and Jian Liu!</li>
   <li> 2024.09: 🎉🎉 One Demo Paper about WiFi-based Malicious Camera Detection accepted by **ACM Mobicom**. Congrats to Myself!</li>
   <li> 2025.03: 🎉🎉 One Paper about Watermark Updating accepted by IEEE ICME 2025. Congrats to Yanyan Liu!</li>
   <li> 2025.03: 🎉🎉 One Paper about WiFi-based domain adaption gesture recognition accepted by IEEE IOTJ. Congrats to Huan Yan!</li>
@@ -129,6 +130,8 @@ Yu Gu, **Xiang Zhang\***, Yantong Wang, Meng Wang, Huan Yan, Yusheng Ji, Zhi Liu
 -->
 
 ## 🧾 Journals
+- DiffLoc+: Towards Robust WiFi Hidden Camera Localization Based on Electromagnetic Diffraction, Huan Yan, Jian Liu, **Xiang Zhang\***,, Zhi Liu, Bin Liu, Meng Li, Zheng Gong, Ming Gao, and Fusang Zhang, **IEEE Journal on Selected Areas in Communications 2026** `CCF A, JCR Q1, IF = 17.2`
+- dentifying Who You Are No Matter What You Write through Abstracting Handwriting Style, Jinyang Huang, Yuanhao Feng, Fengqi Cui, **Xiang Zhang**, Zhi Liu, Xin Liu, Jianchun Liu, Fusang Zhang, Meng Li, **IEEE Transactions on Dependable and Secure Computing.** `CCF A, JCR Q1, IF = 7.5`
 - [ReSup: Reliable Label Noise Suppression for Facial Expression Recognition](https://ieeexplore.ieee.org/document/10916982), **Xiang Zhang**,	Yan Lu, Huan Yan, Jinyang Huang, Yu Gu, Yusheng Ji, Zhi Liu, Bin Liu, **IEEE Transactions on Affective Computing 2025** `CCF B, JCR Q1, IF = 9.8`
 - [WiOpen: A Robust Wi-Fi-based Open-set Gesture Recognition Framework](https://ieeexplore.ieee.org/document/10899398), **Xiang Zhang**,	Jinyang Huang, Huan Yan, Yuanhao Feng, Peng Zhao, Guohang Zhuang, Zhi Liu, Bin Liu, **IEEE Transactions on Human-Machine Systems 2025** `CCF B, JCR Q1, IF = 4.4`
 - [Wi-SFDAGR: WiFi-based Cross-Domain Gesture Recognition via Source-free Domain Adaptation](https://ieeexplore.ieee.org/document/10938146), Huan Yan, **Xiang Zhang\***, Jinyang Huang, Yuanhao Feng, Meng Li, Anzhi Wang, Weihua Ou, Hongbing Wang, Zhi Liu, **IEEE Internet of Things Journal 2025** `CCF C, JCR Q1, IF = 8.9`
