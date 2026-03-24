@@ -66,7 +66,7 @@ My research interests include wireless sensing, cyber-physical systems and their
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE JSAC 2026</div><img src='images/JSAC 2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DiffLoc+: Towards Robust WiFi Hidden Camera Localization Based on Electromagnetic Diffraction](https://ieeexplore.ieee.org/document/11424586)
+[DiffLoc+: Toward Robust WiFi Hidden Camera Localization Based on Electromagnetic Diffraction](https://ieeexplore.ieee.org/document/11424586)
 
 Huan Yan, Jian Liu, **Xiang Zhang\***, Zhi Liu, Bin Liu, Meng Li, Zheng Gong, Ming Gao, and Fusang Zhang, **IEEE JSAC 2026**.
 
@@ -140,7 +140,7 @@ Yu Gu, **Xiang Zhang\***, Yantong Wang, Meng Wang, Huan Yan, Yusheng Ji, Zhi Liu
 -->
 
 ## 🧾 Journals
-- [DiffLoc+: Towards Robust WiFi Hidden Camera Localization Based on Electromagnetic Diffraction](https://ieeexplore.ieee.org/document/11424586), Huan Yan, Jian Liu, **Xiang Zhang\***, Zhi Liu, Bin Liu, Meng Li, Zheng Gong, Ming Gao, and Fusang Zhang, **IEEE Journal on Selected Areas in Communications 2026** `CCF A, JCR Q1, IF = 17.2`
+- [DiffLoc+: Toward Robust WiFi Hidden Camera Localization Based on Electromagnetic Diffraction](https://ieeexplore.ieee.org/document/11424586), Huan Yan, Jian Liu, **Xiang Zhang\***, Zhi Liu, Bin Liu, Meng Li, Zheng Gong, Ming Gao, and Fusang Zhang, **IEEE Journal on Selected Areas in Communications 2026** `CCF A, JCR Q1, IF = 17.2`
 - [Identifying Who You Are No Matter What You Write through Abstracting Handwriting Style](https://ieeexplore.ieee.org/abstract/document/11417419), Jinyang Huang, Yuanhao Feng, Fengqi Cui, **Xiang Zhang**, Zhi Liu, Xin Liu, Jianchun Liu, Fusang Zhang, Meng Li, **IEEE Transactions on Dependable and Secure Computing.** `CCF A, JCR Q1, IF = 7.5`
 - [ReSup: Reliable Label Noise Suppression for Facial Expression Recognition](https://ieeexplore.ieee.org/document/10916982), **Xiang Zhang**,	Yan Lu, Huan Yan, Jinyang Huang, Yu Gu, Yusheng Ji, Zhi Liu, Bin Liu, **IEEE Transactions on Affective Computing 2025** `CCF B, JCR Q1, IF = 9.8`
 - [WiOpen: A Robust Wi-Fi-based Open-set Gesture Recognition Framework](https://ieeexplore.ieee.org/document/10899398), **Xiang Zhang**,	Jinyang Huang, Huan Yan, Yuanhao Feng, Peng Zhao, Guohang Zhuang, Zhi Liu, Bin Liu, **IEEE Transactions on Human-Machine Systems 2025** `CCF B, JCR Q1, IF = 4.4`
