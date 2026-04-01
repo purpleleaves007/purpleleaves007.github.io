@@ -26,6 +26,7 @@ My research interests include wireless sensing, cyber-physical systems and their
 
 # 🔥 News
 
+- *2026.04*: 🎉🎉 As the Lead Guest Editor, I have launched a [Special Issue: Network Forensics and Cybersecurity Applications](https://www.mdpi.com/journal/ai/special_issues/AT970FO6ZH) in AI (新悦二区) and warmly welcome your submissions.
 - *2026.03*: 🎉🎉 One paper about WiFi Hidden Camera Localization accepted by **IEEE JSAC 2026**. Congrats to Huan Yan!
 - *2026.02*: 🎉🎉 One Paper about Handwriting Security accepted by **IEEE TDSC 2026**. Congrats to Jinyang Huang!
 - *2026.01*: 🎉🎉 One Paper about Physical-Informed Cross-Domain WiFi Gesture Recognition accepted by **ACM IMWUT/Ubicomp 2026**. Congrats to Myself!
