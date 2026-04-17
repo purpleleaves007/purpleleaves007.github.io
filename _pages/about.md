@@ -178,6 +178,7 @@ Yu Gu, **Xiang Zhang\***, Yantong Wang, Meng Wang, Huan Yan, Yusheng Ji, Zhi Liu
 - Usenix Security Symposium(Sec 2026, AEC)
 - IEEE International Conference on Multimedia and Expo (ICME 2026, Area Chair)
 - ACM Multimedia(MM 2024)
+- AAAI (AAAI 2026)
 - IEEE Global Communications Conference (GLOBECOM 2023-2026, TPC)
 - IEEE International Conference on Multimedia and Expo (ICME 2023,2025,2026)
 - ACM Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT 2024)
