@@ -194,3 +194,4 @@ Yu Gu, **Xiang Zhang\***, Yantong Wang, Meng Wang, Huan Yan, Yusheng Ji, Zhi Liu
 - IEEE Transactions on Network and Service Management
 - IEEE Transactions on Artificial Intelligence
 - Electronics Special Issue: Emerging Challenges and Innovations in IoT Security and Privacy (**Lead Guest Editor**)
+- AI: Special Issue: Network Forensics and Cybersecurity Applications (**Lead Guest Editor**)
