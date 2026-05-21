@@ -26,6 +26,7 @@ My research interests include wireless sensing, cyber-physical systems and their
 
 # 🔥 News
 
+- *2026.05*: 🎉🎉 One paper about Edge Computing accepted by **IEEE TCCN 2026**. Congrats to Tao Liu!
 - *2026.04*: 🎉🎉 As the Lead Guest Editor, I have launched a [Special Issue: Network Forensics and Cybersecurity Applications](https://www.mdpi.com/journal/ai/special_issues/AT970FO6ZH) in AI (新悦二区) and warmly welcome your submissions.
 - *2026.03*: 🎉🎉 One paper about WiFi Hidden Camera Localization accepted by **IEEE JSAC 2026**. Congrats to Huan Yan!
 - *2026.02*: 🎉🎉 One Paper about Handwriting Security accepted by **IEEE TDSC 2026**. Congrats to Jinyang Huang!
@@ -156,6 +157,7 @@ Yu Gu, **Xiang Zhang\***, Yantong Wang, Meng Wang, Huan Yan, Yusheng Ji, Zhi Liu
 - [3-d facial expression recognition via attention-based multichannel data fusion network](https://ieeexplore.ieee.org/abstract/document/9606672),Yu Gu, Huan Yan, **Xiang Zhang**, Zhi Liu, Fuji Ren, **IEEE Transactions on Instrumentation and Measurement 2021** `JCR Q1, IF = 5.9`
 - [Wione: one-shot learning for environment-robust device-free user authentication via commodity wi-fi in man–machine system](https://ieeexplore.ieee.org/abstract/document/9385792),Yu Gu, Huan Yan, Mianxiong Dong, Meng Wang, **Xiang Zhang**, Zhi Liu, Fuji Ren, **IEEE Transactions on Computational Social Systems 2021** `CCF C, JCR Q1, IF = 4.9`
 - [BeSense: Leveraging WiFi channel data and computational intelligence for behavior analysis](https://ieeexplore.ieee.org/abstract/document/8870275),Yu Gu, **Xiang Zhang**, Zhi Liu, Fuji Ren, **IEEE Computational Intelligence Magazine 2019** `JCR Q1, IF = 11.2`
+- - [Efficient Edge Deployment of Mixture-of-Experts Models with Hybrid Expert Quantization](https://ieeexplore.ieee.org/document/11527015), Tao Liu, Qipeng Xie, Zhaoyang Han, Weizheng Wang, Shengli Pan, **Xiang Zhang**, Chunhua Su, Kaishun Wu, **IEEE Transactions on Dependable and Secure Computing.** `JCR Q1, IF = 7.0`
 
 # 🎖 Honors and Awards
 - *2025.07* **[IEEE ICME 2025 Best Paper Award Nomination](https://2025.ieeeicme.org/awards/)**.
