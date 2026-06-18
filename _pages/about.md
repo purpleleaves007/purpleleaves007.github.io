@@ -17,15 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我现于天津大学网安学院任副教授，主攻物联网安全，智能感知，信息物理系统及其安全等方向。如果对我的研究方向感兴趣并希望攻读硕士学位或有意进行科研方面的交流合作欢迎联系我。
+我现于天津大学网安学院任副教授(博导)，主攻物联网安全，智能感知，信息物理系统及其安全等方向。如果对我的研究方向感兴趣并希望攻读博士或者硕士学位或有意进行科研方面的交流合作欢迎联系我。
 
-I am currently an Associate Professor at the School of Cyber Security, Tianjin University, Tianjin, China. I received the B.E. degree from Hefei University of Technology, China, in 2017, and my D.E. degree from the same university in 2023, supervised by Prof.[Meng Wang](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm) and Prof.[Yu Gu](https://www.scse.uestc.edu.cn/info/1081/15382.htm). During my doctoral period, I receive a CSC scholarship, and I am guided by Prof.[Yusheng Ji](https://klab.nii.ac.jp/) from National Institute of Informatics, Japan.
+I am currently an Associate Professor (PhD supervisor) at the School of Cyber Security, Tianjin University, Tianjin, China. I received the B.E. degree from Hefei University of Technology, China, in 2017, and my D.E. degree from the same university in 2023, supervised by Prof.[Meng Wang](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm) and Prof.[Yu Gu](https://www.scse.uestc.edu.cn/info/1081/15382.htm). During my doctoral period, I receive a CSC scholarship, and I am guided by Prof.[Yusheng Ji](https://klab.nii.ac.jp/) from National Institute of Informatics, Japan.
 
 My research interests include wireless sensing, cyber-physical systems and their security, as well as human-machine systems and their security. I am committed to pursuing new topics and making meaningful contributions in the areas of security and privacy for cyber-physical and human-machine systems. I have published 30+ papers <a href='https://scholar.google.com/citations?user=mz4NUCAAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpurpleleaves007%2Fpurpleleaves007.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&amp;logo=Google%20Scholar&amp;labelColor=f6f6f6&amp;color=9cf&amp;style=flat&amp;label=citations"></a> at top international conferences and journals, including IEEE S&P, USENIX Security, ACM MobiCom, IEEE JSAC, and ACM IMWUT/Ubicomp. I'm the recipient of the **IEEE SMC Society Andrew P. Sage Best Transactions Paper Award**, the **IEEE HITC Distinguished Phd Dissertation Award**, and the  **IEEE ICME 2025 Best Paper Award Nomination**.
 
 
 # 🔥 News
 
+- *2026.06*: 🎉🎉I have been officially approved as a **PhD supervisor**.
+- *2026.06*: 🎉🎉 I'm invited to serve as a member of Program Committee (PC) for **Usenix Security 2027**.
 - *2026.05*: 🎉🎉 One paper about Edge Computing accepted by **IEEE TCCN 2026**. Congrats to Tao Liu!
 - *2026.04*: 🎉🎉 As the Lead Guest Editor, I have launched a [Special Issue: Network Forensics and Cybersecurity Applications](https://www.mdpi.com/journal/ai/special_issues/AT970FO6ZH) in AI (新悦二区) and warmly welcome your submissions.
 - *2026.03*: 🎉🎉 One paper about WiFi Hidden Camera Localization accepted by **IEEE JSAC 2026**. Congrats to Huan Yan!
@@ -177,9 +179,10 @@ Yu Gu, **Xiang Zhang\***, Yantong Wang, Meng Wang, Huan Yan, Yusheng Ji, Zhi Liu
 
 # 🧑‍🎨 TPC Member, Editor and Reviewers
 - IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA 2025, **Publication Chair**)
-- Usenix Security Symposium(Sec 2026, AEC)
+- Usenix Security Symposium(Sec 2027, **PC Member**)
+- Usenix Security Symposium(Sec 2026, AEC Member)
 - IEEE International Conference on Multimedia and Expo (ICME 2026, Area Chair)
-- ACM Multimedia(MM 2024)
+- ACM Multimedia(MM 2024, 2026)
 - AAAI (AAAI 2026)
 - IEEE Global Communications Conference (GLOBECOM 2023-2026, TPC)
 - IEEE International Conference on Multimedia and Expo (ICME 2023,2025,2026)
