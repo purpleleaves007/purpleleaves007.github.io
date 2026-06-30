@@ -26,6 +26,7 @@ My research lies at the intersection of wireless sensing, security, and ambient 
 
 # 🔥 News
 
+- *2026.07*: I have been selected to receive an **ICME 2026 Outstanding Area Chair Award**. Congrats to Myself!
 - *2026.06*: 🎉🎉I have been officially approved as a **PhD supervisor**.
 - *2026.06*: 🎉🎉 I'm invited to serve as a member of Program Committee (PC) for **Usenix Security 2027**.
 - *2026.05*: 🎉🎉 One paper about Edge Computing accepted by **IEEE TCCN 2026**. Congrats to Tao Liu!
@@ -162,6 +163,7 @@ Yu Gu, **Xiang Zhang\***, Yantong Wang, Meng Wang, Huan Yan, Yusheng Ji, Zhi Liu
 - [BeSense: Leveraging WiFi channel data and computational intelligence for behavior analysis](https://ieeexplore.ieee.org/abstract/document/8870275),Yu Gu, **Xiang Zhang**, Zhi Liu, Fuji Ren, **IEEE Computational Intelligence Magazine 2019** `JCR Q1, IF = 7.7`
 
 # 🎖 Honors and Awards
+- *2026.07* **ICME 2026 Outstanding Area Chair Award**
 - *2025.07* **[IEEE ICME 2025 Best Paper Award Nomination](https://2025.ieeeicme.org/awards/)**.
 - *2024.11* **[IEEE HITC Distinguished Phd Dissertation Award](https://ieee-hyperintelligence.org/award)**. 
 - *2024.10* **[IEEE SMC Society Andrew P. Sage Best Transactions Paper Award (The corresponding author)](https://www.ieeesmc.org/about-smcs/awards/andrew-p-sage-best-transactions-paper/)**.
