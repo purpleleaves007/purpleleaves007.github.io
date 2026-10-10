@@ -185,6 +185,7 @@ Yu Gu, **Xiang Zhang\***, Yantong Wang, Meng Wang, Huan Yan, Yusheng Ji, Zhi Liu
 # 🧑‍🎨 TPC Member, Editor and Reviewers
 - IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA 2025, **Publication Chair**)
 - Usenix Security Symposium(Sec 2027, **PC Member**)
+- ACM Mobicom (Mobicom 2027)
 - Usenix Security Symposium(Sec 2026, AEC Member)
 - IEEE International Conference on Multimedia and Expo (ICME 2026, Area Chair)
 - ACM Multimedia(MM 2024, 2026)
