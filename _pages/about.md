@@ -26,7 +26,7 @@ My research lies at the intersection of wireless sensing, security, and ambient 
 
 # 🔥 News
 
-- *2026.10*: 🎉🎉 I will be joining the Chinese Academy of Sciences, as a tenure-track Professor.
+- *2026.10*: 🎉🎉 I will be joining the Chinese Academy of Sciences, as a Professor (Tenure-track).
 - *2026.07*: 🎉🎉 One Paper about WiFi-based PIN estimation accepted by **ACM MM 2026**. Congrats to Baichuan Wu (Master Student)!
 - *2026.07*: 🎉🎉 I have been selected to receive an **IEEE ICME 2026 Outstanding Area Chair Award**. Congrats to Myself!
 - *2026.06*: 🎉🎉 I have been officially approved as a **PhD supervisor**.
