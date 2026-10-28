@@ -160,7 +160,7 @@ extra='<select id="year-filter" aria-label="Filter by year"><option value="all">
 extra+='<select id="format-filter" aria-label="Filter by paper type"><option value="all">All paper types</option><option value="Full Research">Full Research</option><option value="Demo">Demo</option><option value="Short Paper">Short Paper</option></select>'
 body+=filterbar([('All publications','all'),('Conferences','Conference'),('Journals','Journal')],'Search titles, venues, authors…',extra)
 body+='<p class="authors-legend"><span><sup>*</sup> Corresponding author</span><span><sup>†</sup> Equal contribution</span></p>'
-for r in sorted(records,key=lambda r:r['year'] or '0',reverse=True):
+for r in sorted(records,key=lambda r:(-int(r['year'] or '0'),VENUE_CONFIG['groups'].get(r['venue_group'],{}).get('priority',99))):
  title='<a href="'+esc(r['url'])+'">'+esc(r['title'])+'</a>' if r['url'] else esc(r['title'])
  body+='<article class="publication-entry" '+record_attrs(r)+'><div class="entry-rail">'+venue_badge(r)+'<span class="paper-year">'+(r['year'] or 'Year unspecified')+'</span>'+rail_award(r)+'</div><div class="entry-body"><h2 class="paper-title">'+title+'</h2>'+author_line(r)+'<p class="venue-full">'+esc(r['venue'])+(' · '+r['year'] if r['year'] else '')+'</p>'+tags(r)
  body+='<div class="entry-tools">'+('<a class="paper-link" href="'+esc(r['url'])+'">Read paper '+icon('arrow')+'</a>' if r['url'] else '<span class="paper-year">Paper link not listed</span>')+'</div>'
