@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "scholar_id": "mz4NUCAAAAAJ",
+  "name": "Xiang Zhang",
+  "source": "Google Scholar",
+  "profile_url": "https://scholar.google.com/citations?user=mz4NUCAAAAAJ&hl=en",
+  "citedby": 1285,
+  "citedby5y": 1265,
+  "hindex": 20,
+  "hindex5y": 20,
+  "i10index": 25,
+  "i10index5y": 25,
+  "cites_per_year": {
+    "2019": 4,
+    "2020": 14,
+    "2021": 33,
+    "2022": 68,
+    "2023": 89,
+    "2024": 183,
+    "2025": 538,
+    "2026": 345
+  },
+  "updated_at": "2026-10-28T05:37:46Z"
+}
