@@ -47,6 +47,8 @@ jobs:
         run: python source/journal_metrics/update_journal_metrics.py --seed source/assets/journal-metrics.json --output stats/journal_metrics.json
       - name: Publish verified metrics
         working-directory: stats
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           set -euo pipefail
           git config user.name 'github-actions[bot]'

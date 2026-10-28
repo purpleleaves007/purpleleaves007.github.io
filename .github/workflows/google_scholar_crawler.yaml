@@ -51,6 +51,8 @@ jobs:
         run: python source/google_scholar_crawler/update_metrics.py --output-dir stats
       - name: Publish the successful snapshot
         working-directory: stats
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           set -euo pipefail
           git config user.name 'github-actions[bot]'
