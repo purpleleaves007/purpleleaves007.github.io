@@ -86,3 +86,18 @@ html{scroll-behavior:auto}
 .tag-format{color:#66546e;border:1px solid #d5cbd9;background:#f1edf3;padding:3px 8px;font-weight:500}
 .filter-bar #format-filter{order:2}
 @media(max-width:560px){.filter-bar #format-filter{order:0}}
+
+/* Pair the portrait with the name and give the research identity its own space. */
+.hero-identity{display:flex;align-items:center;gap:22px;margin:20px 0 16px;min-width:0}
+.identity-portrait{display:block;flex:none;width:82px;height:98px;object-fit:cover;object-position:50% 40%;padding:3px;border:1px solid #d7ccd9;border-radius:5px;background:var(--surface)}
+.hero-identity .hero-name{font-size:clamp(48px,5.8vw,78px);line-height:1.05;letter-spacing:-2.5px;margin:0;white-space:nowrap;min-width:0}
+.hero-identity .hero-name span{display:block;font-size:24px;line-height:1.2;letter-spacing:1px;margin:10px 0 0}
+.research-emblem{margin:0;align-self:center;min-width:0;text-align:center}
+.research-emblem>img{display:block;width:100%;height:auto;object-fit:contain}
+.research-emblem figcaption{display:flex;flex-direction:column;gap:5px;margin-top:17px;color:var(--muted)}
+.research-emblem figcaption span:first-child{font-size:12px;letter-spacing:2px;color:var(--plum)}
+.research-emblem figcaption span:last-child{font-size:9px;letter-spacing:.35px;line-height:1.6}
+@media(max-width:1000px){.hero-identity{gap:18px}.identity-portrait{width:72px;height:88px}.hero-identity .hero-name{font-size:56px}}
+@media(max-width:760px){.hero-identity{gap:15px;margin:17px 0 14px}.identity-portrait{width:64px;height:78px}.hero-identity .hero-name{font-size:44px;letter-spacing:-1.5px}.hero-identity .hero-name span{font-size:20px;margin-top:8px}.research-emblem figcaption span:last-child{font-size:8px}}
+@media(max-width:560px){.hero-identity{grid-column:1;grid-row:2;gap:12px;margin:0;align-self:center}.identity-portrait{width:44px;height:54px;padding:2px}.hero-identity .hero-name{font-size:clamp(25px,7.7vw,34px);letter-spacing:-1px}.hero-identity .hero-name span{font-size:17px;margin-top:6px}.research-emblem{grid-column:2;grid-row:2/4;align-self:start;margin:0}.research-emblem figcaption{display:block;margin-top:8px}.research-emblem figcaption span:first-child{font-size:8px;letter-spacing:.6px}.research-emblem figcaption span:last-child{display:none}}
+@media(max-width:360px){.hero{grid-template-columns:minmax(0,1fr) 72px;gap:12px}.hero-identity{gap:8px}.identity-portrait{width:36px;height:46px}.hero-identity .hero-name{font-size:25px}.hero-identity .hero-name span{font-size:16px}}
