@@ -29,18 +29,13 @@ My research lies at the intersection of wireless sensing, security, and ambient 
 - *2026.10*: 🎉🎉 I will be joining the Chinese Academy of Sciences, as a Professor (Tenure-track).
 - *2026.07*: 🎉🎉 One Paper about WiFi-based PIN estimation accepted by **ACM MM 2026**. Congrats to Baichuan Wu (Master Student)!
 - *2026.07*: 🎉🎉 I have been selected to receive an **IEEE ICME 2026 Outstanding Area Chair Award**. Congrats to Myself!
-- *2026.06*: 🎉🎉 I have been officially approved as a **PhD supervisor**.
 - *2026.06*: 🎉🎉 I'm invited to serve as a member of Program Committee (PC) for **Usenix Security 2027**.
 - *2026.05*: 🎉🎉 One paper about Edge Computing accepted by **IEEE TCCN 2026**. Congrats to Tao Liu!
-- *2026.04*: 🎉🎉 As the Lead Guest Editor, I have launched a [Special Issue: Network Forensics and Cybersecurity Applications](https://www.mdpi.com/journal/ai/special_issues/AT970FO6ZH) in AI (新悦二区) and warmly welcome your submissions.
 - *2026.03*: 🎉🎉 One paper about WiFi Hidden Camera Localization accepted by **IEEE JSAC 2026**. Congrats to Huan Yan!
-- *2026.02*: 🎉🎉 One Paper about Handwriting Security accepted by **IEEE TDSC 2026**. Congrats to Jinyang Huang!
 - *2026.01*: 🎉🎉 One Paper about Physical-Informed Cross-Domain WiFi Gesture Recognition accepted by **ACM IMWUT/Ubicomp 2026**. Congrats to Myself!
 - *2025.11*: 🎉🎉 One Paper about WiFi-based 3D Pose Estimation conditional accepted by **ACM Mobicom 2026**. Congrats to Songming Jia (Master Student)!
 - *2025.11*: 🎉🎉 Invited to serve as a member of Artifact Evaluation Committee (AEC) for **Usenix Security 2026**.
-- *2025.11*: 🎉🎉 One Paper about WiFi-based gesture recognition accepted by **AAAI 2026**. Congrats to Ruobei Zhang and Shengeng Tang!
 - *2025.10*: 🎉🎉 I have joined the School of Cyber Security at **Tianjin University** as a tenured **Associate Professor**.
-- *2025.09*: 🎉🎉 One Paper about AI for astronomy accepted by **NIPS DB Track 2025**, and has been selected as **spotlight paper**. Congrats to Kuocheng Wu and Guohang Zhuang!
 - *2025.07*: 🎉🎉 Our Watermark Updating Framework has been selected as [**Candidates of Best Paper**](https://2025.ieeeicme.org/awards/) (one of the Top 15 Papers) in ICME 2025. Congrats to Yanyan Liu!
 - *2025.06*: 🎉🎉 One Paper about WiFi Hidden Camera Localization accepted by **Usenix Security 2025**. Congrats to Myself!
 - *2025.03*: 🎉🎉 One Paper about Wireless Hidden Camera Localization accepted by **IEEE S&P 2025**. Congrats to Myself!
@@ -51,6 +46,10 @@ My research lies at the intersection of wireless sensing, security, and ambient 
   <summary>More News ...</summary>
 
   <ul>
+  <li>- *2026.02*: 🎉🎉 One Paper about Handwriting Security accepted by **IEEE TDSC 2026**. Congrats to Jinyang Huang!</li>
+  <li> - *2025.09*: 🎉🎉 One Paper about AI for astronomy accepted by **NIPS DB Track 2025**, and has been selected as **spotlight paper**. Congrats to Kuocheng Wu and Guohang Zhuang!</li>
+  <li> - *2026.06*: 🎉🎉 I have been officially approved as a **PhD supervisor**.</li>
+  <li> - *2025.11*: 🎉🎉 One Paper about WiFi-based gesture recognition accepted by **AAAI 2026**. Congrats to Ruobei Zhang and Shengeng Tang!</li>
   <li> 2025.11: 🎉🎉 As the Lead Guest Editor, I have launched a [Special Issue: Emerging Challenges and Innovations in IoT Security and Privacy in Electronics](https://www.mdpi.com/journal/electronics/special_issues/AMEWN42W8U) and warmly welcome your submissions.</li>
   <li> 2025.11: 🎉🎉 Invited to serve as an **Area Chair (AC)** for IEEE ICME 2026.</li>
   <li> 2025.05: 🎉🎉 One Paper about RFID Sensing accepted by **ACM TOSN**. Congrats to Yuanhao Feng!!</li>
