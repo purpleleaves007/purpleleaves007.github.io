@@ -1,0 +1,138 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-10-28T07:30:07Z",
+  "requested_metric_year": 2025,
+  "sources": {
+    "IEEE": {
+      "status": "updated",
+      "metric_year": 2025,
+      "count": 12,
+      "url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026.xlsx"
+    },
+    "ACM": {
+      "status": "retained_previous",
+      "reason": "www.acm.org request failed (curl status 22)"
+    },
+    "LetPub": {
+      "journals": {
+        "ACM TOSN": "verified",
+        "ACM IMWUT / UbiComp": "verified"
+      }
+    }
+  },
+  "journals": {
+    "IEEE JSAC": {
+      "jif": 16.8,
+      "metric_year": 2025,
+      "quartile": "Q1",
+      "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026.xlsx",
+      "publisher": "IEEE",
+      "title": "IEEE Journal on Selected Areas in Communications"
+    },
+    "IEEE TDSC": {
+      "jif": 6.8,
+      "metric_year": 2025,
+      "quartile": "Q1",
+      "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026.xlsx",
+      "publisher": "IEEE",
+      "title": "IEEE Transactions on Dependable and Secure Computing"
+    },
+    "IEEE TCCN": {
+      "jif": 8.0,
+      "metric_year": 2025,
+      "quartile": "Q1",
+      "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026.xlsx",
+      "publisher": "IEEE",
+      "title": "IEEE Transactions on Cognitive Communications and Networking"
+    },
+    "IEEE TAFFC": {
+      "jif": 11.3,
+      "metric_year": 2025,
+      "quartile": "Q1",
+      "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026.xlsx",
+      "publisher": "IEEE",
+      "title": "IEEE Transactions on Affective Computing"
+    },
+    "IEEE THMS": {
+      "jif": 4.4,
+      "metric_year": 2025,
+      "quartile": "Q2",
+      "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026.xlsx",
+      "publisher": "IEEE",
+      "title": "IEEE Transactions on Human-Machine Systems"
+    },
+    "IEEE IoT-J": {
+      "jif": 8.7,
+      "metric_year": 2025,
+      "quartile": "Q1",
+      "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026.xlsx",
+      "publisher": "IEEE",
+      "title": "IEEE Internet of Things Journal"
+    },
+    "IEEE TIFS": {
+      "jif": 8.7,
+      "metric_year": 2025,
+      "quartile": "Q1",
+      "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026.xlsx",
+      "publisher": "IEEE",
+      "title": "IEEE Transactions on Information Forensics and Security"
+    },
+    "IEEE TMC": {
+      "jif": 8.8,
+      "metric_year": 2025,
+      "quartile": "Q1",
+      "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026.xlsx",
+      "publisher": "IEEE",
+      "title": "IEEE Transactions on Mobile Computing"
+    },
+    "IEEE TCSVT": {
+      "jif": 10.8,
+      "metric_year": 2025,
+      "quartile": "Q1",
+      "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026.xlsx",
+      "publisher": "IEEE",
+      "title": "IEEE Transactions on Circuits and Systems for Video Technology"
+    },
+    "IEEE TIM": {
+      "jif": 7.0,
+      "metric_year": 2025,
+      "quartile": "Q1",
+      "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026.xlsx",
+      "publisher": "IEEE",
+      "title": "IEEE Transactions on Instrumentation and Measurement"
+    },
+    "IEEE TCSS": {
+      "jif": 4.6,
+      "metric_year": 2025,
+      "quartile": "Q2",
+      "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026.xlsx",
+      "publisher": "IEEE",
+      "title": "IEEE Transactions on Computational Social Systems"
+    },
+    "IEEE CIM": {
+      "jif": 7.7,
+      "metric_year": 2025,
+      "quartile": "Q1",
+      "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026.xlsx",
+      "publisher": "IEEE",
+      "title": "IEEE Computational Intelligence Magazine"
+    },
+    "ACM IMWUT / UbiComp": {
+      "jif": 6.2,
+      "metric_year": 2025,
+      "quartile": "Q1",
+      "publisher": "ACM",
+      "source_url": "https://www.acm.org/media-center/2026/july/impact-factors-2026",
+      "title": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies",
+      "corroborating_source_url": "https://www.letpub.com.cn/index.php?page=journalapp&view=search&searchissn=2474-9567"
+    },
+    "ACM TOSN": {
+      "jif": 4.7,
+      "metric_year": 2025,
+      "source_url": "https://www.letpub.com.cn/index.php?page=journalapp&view=search&searchissn=1550-4859",
+      "publisher": "ACM",
+      "source_kind": "secondary",
+      "title": "ACM Transactions on Sensor Networks"
+    }
+  }
+}
