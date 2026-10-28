@@ -35,7 +35,7 @@
     "grade": "CCF A",
     "quart": "",
     "impact": "",
-    "authors": "Songming Jia, Yan Lu, Bin Liu, Xiang Zhang, Peng Zhao, Xinmeng Tang, Yelin Wei, Jinyang Huang, Huan Yan, Zhi Liu",
+    "authors": "Songming Jia†, Yan Lu†, Bin Liu*, Xiang Zhang†*, Peng Zhao, Xinmeng Tang, Yelin Wei, Jinyang Huang, Huan Yan, Zhi Liu",
     "award": "",
     "notes": [],
     "journal_metrics": null,
@@ -53,7 +53,7 @@
     "grade": "CCF A",
     "quart": "",
     "impact": "",
-    "authors": "Baichuan Wu, Bin Liu, Xiang Zhang, Zhi Liu, Jie Zhang, Chao Liu, Huan Yan, Meng Li, Fusang Zhang",
+    "authors": "Baichuan Wu, Bin Liu*, Xiang Zhang*, Zhi Liu, Jie Zhang, Chao Liu, Huan Yan, Meng Li, Fusang Zhang",
     "award": "",
     "notes": [],
     "journal_metrics": null,
@@ -145,7 +145,7 @@
     "grade": "CCF A",
     "quart": "",
     "impact": "",
-    "authors": "Yuanhao Feng, Youwei Zhang, Hao Zhou,Xiang Zhang, Zhi Liu",
+    "authors": "Yuanhao Feng, Youwei Zhang, Hao Zhou, Xiang Zhang*, Zhi Liu*",
     "award": "",
     "notes": [
       "Short paper"
@@ -241,7 +241,7 @@
     "grade": "CCF B",
     "quart": "",
     "impact": "",
-    "authors": "Yu Gu, Xiang Zhang, Huan Yan, Zhi Liu, Yusheng Ji",
+    "authors": "Yu Gu, Xiang Zhang*, Huan Yan, Zhi Liu, Yusheng Ji",
     "award": "",
     "notes": [],
     "journal_metrics": null,
@@ -277,7 +277,7 @@
     "grade": "CCF A",
     "quart": "JCR Q1",
     "impact": "IF = 16.8",
-    "authors": "Huan Yan, Jian Liu, Xiang Zhang, Zhi Liu, Bin Liu, Meng Li, Zheng Gong, Ming Gao, and Fusang Zhang",
+    "authors": "Huan Yan, Jian Liu, Xiang Zhang*, Zhi Liu, Bin Liu, Meng Li, Zheng Gong, Ming Gao, and Fusang Zhang",
     "award": "",
     "notes": [],
     "journal_metrics": {
@@ -377,7 +377,7 @@
     "grade": "CCF B",
     "quart": "JCR Q1",
     "impact": "IF = 11.3",
-    "authors": "Xiang Zhang,\tYan Lu, Huan Yan, Jinyang Huang, Yu Gu, Yusheng Ji, Zhi Liu, Bin Liu",
+    "authors": "Xiang Zhang, Yan Lu, Huan Yan, Jinyang Huang, Yu Gu, Yusheng Ji, Zhi Liu, Bin Liu",
     "award": "",
     "notes": [],
     "journal_metrics": {
@@ -402,7 +402,7 @@
     "grade": "CCF B",
     "quart": "JCR Q1",
     "impact": "IF = 4.4",
-    "authors": "Xiang Zhang,\tJinyang Huang, Huan Yan, Yuanhao Feng, Peng Zhao, Guohang Zhuang, Zhi Liu, Bin Liu",
+    "authors": "Xiang Zhang, Jinyang Huang, Huan Yan, Yuanhao Feng, Peng Zhao, Guohang Zhuang, Zhi Liu, Bin Liu",
     "award": "",
     "notes": [],
     "journal_metrics": {
@@ -427,7 +427,7 @@
     "grade": "CCF C",
     "quart": "JCR Q1",
     "impact": "IF = 8.7",
-    "authors": "Huan Yan, Xiang Zhang, Jinyang Huang, Yuanhao Feng, Meng Li, Anzhi Wang, Weihua Ou, Hongbing Wang, Zhi Liu",
+    "authors": "Huan Yan, Xiang Zhang*, Jinyang Huang, Yuanhao Feng, Meng Li, Anzhi Wang, Weihua Ou, Hongbing Wang, Zhi Liu",
     "award": "",
     "notes": [],
     "journal_metrics": {
@@ -447,7 +447,7 @@
     "url": "https://dl.acm.org/doi/abs/10.1145/3737701",
     "venue": "ACM Transactions on Sensor Networks",
     "short": "ACM TOSN",
-    "year": "",
+    "year": "2025",
     "kind": "Journal",
     "grade": "CCF B",
     "quart": "JCR Q2",
@@ -477,7 +477,7 @@
     "grade": "CCF A",
     "quart": "JCR Q1",
     "impact": "IF = 8.7",
-    "authors": "Jinyang Huang, Jia-Xuan Bai, Xiang Zhang, Zhi Liu, Yuanhao Feng, Jianchun Liu, Xiao Sun, Mianxiong Dong, Meng Li",
+    "authors": "Jinyang Huang, Jia-Xuan Bai, Xiang Zhang*, Zhi Liu, Yuanhao Feng, Jianchun Liu, Xiao Sun, Mianxiong Dong, Meng Li",
     "award": "",
     "notes": [],
     "journal_metrics": {
@@ -527,7 +527,7 @@
     "grade": "CCF B",
     "quart": "JCR Q1",
     "impact": "IF = 11.3",
-    "authors": "Yu Gu, Xiang Zhang, Huan Yan, Jingyang Huang, Zhi Liu, Mianxiong Dong, Fuji Ren",
+    "authors": "Yu Gu, Xiang Zhang*, Huan Yan, Jingyang Huang, Zhi Liu, Mianxiong Dong, Fuji Ren",
     "award": "",
     "notes": [],
     "journal_metrics": {
@@ -577,7 +577,7 @@
     "grade": "CCF B",
     "quart": "JCR Q1",
     "impact": "IF = 4.4",
-    "authors": "Yu Gu, Xiang Zhang, Yantong Wang, Meng Wang, Huan Yan, Yusheng Ji, Zhi Liu, Jianhua Li, Mianxiong Dong",
+    "authors": "Yu Gu, Xiang Zhang*, Yantong Wang, Meng Wang, Huan Yan, Yusheng Ji, Zhi Liu, Jianhua Li, Mianxiong Dong",
     "award": "winner",
     "notes": [],
     "journal_metrics": {

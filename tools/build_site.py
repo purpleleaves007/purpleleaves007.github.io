@@ -47,7 +47,7 @@ for index,li in enumerate(confs+journals):
  grade=re.search(r'CCF [ABC]',metrics);grade=grade.group() if grade else ''
  quart=re.search(r'JCR Q\d',metrics);quart=quart.group() if quart else ''
  impact=re.search(r'IF\s*=\s*[\d.]+',metrics);impact=impact.group() if impact else ''
- authorhtml=tail[:tail.rfind('<strong>')].strip(' ,.\n\t');authors=plain(authorhtml).replace('†','').replace('*','').strip(' ,.')
+ authorhtml=tail[:tail.rfind('<strong>')].strip(' ,.\n\t');authors=re.sub(r'\s+', ' ', plain(authorhtml)).strip(' ,.');authors=re.sub(r',\s*', ', ', authors)
  award='winner' if title.startswith('WiGRUNT:') else 'nominee' if title.startswith('A Watermark') else ''
  notes=[]
  if 'Short Paper' in plain(li):notes.append('Short paper')
@@ -65,6 +65,17 @@ for record in records:
  record['venue_group']=VENUE_CONFIG['venues'].get(record['short'],'other')
  record['venue_group_label']=VENUE_CONFIG['groups'].get(record['venue_group'],{}).get('label','Unclassified')
  record['contribution_format']='Demo' if 'Demo' in record['notes'] else 'Short Paper' if 'Short paper' in record['notes'] else 'Full Research'
+
+def author_line(r):
+ text=esc(r['authors'])
+ text=re.sub(r'\bXiang Zhang\b','<strong>Xiang Zhang</strong>',text)
+ def marker(m):
+  labels=[]
+  if '†' in m.group():labels.append('Equal contribution')
+  if '*' in m.group():labels.append('Corresponding author')
+  return '<sup class="author-mark" title="'+esc('; '.join(labels))+'">'+m.group()+'</sup>'
+ text=re.sub(r'[†*]+',marker,text)
+ return '<p class="publication-authors">'+text+'</p>'
 
 def venue_badge(r):
  return '<span class="venue-badge venue-group-'+r['venue_group']+'" title="'+esc(r['venue'])+'">'+esc(r['short'])+'</span>'
@@ -147,12 +158,13 @@ body=archive_head('Publications.','Research / Complete record','Wireless sensing
 years=sorted({r['year'] for r in records if r['year']},reverse=True)
 extra='<select id="year-filter" aria-label="Filter by year"><option value="all">All years</option>'+''.join(f'<option>{y}</option>' for y in years)+'<option value="unspecified">Year unspecified</option></select><select id="grade-filter" aria-label="Filter by CCF rank"><option value="all">All CCF ranks</option><option>CCF A</option><option>CCF B</option><option>CCF C</option></select>'
 extra+='<select id="format-filter" aria-label="Filter by paper type"><option value="all">All paper types</option><option value="Full Research">Full Research</option><option value="Demo">Demo</option><option value="Short Paper">Short Paper</option></select>'
-body+=filterbar([('All publications','all'),('Conferences','Conference'),('Journals','Journal')],'Search titles, venues, keywords…',extra)
+body+=filterbar([('All publications','all'),('Conferences','Conference'),('Journals','Journal')],'Search titles, venues, authors…',extra)
+body+='<p class="authors-legend"><span><sup>*</sup> Corresponding author</span><span><sup>†</sup> Equal contribution</span></p>'
 for r in sorted(records,key=lambda r:r['year'] or '0',reverse=True):
  title='<a href="'+esc(r['url'])+'">'+esc(r['title'])+'</a>' if r['url'] else esc(r['title'])
- body+='<article class="publication-entry" '+record_attrs(r)+'><div class="entry-rail">'+venue_badge(r)+'<span class="paper-year">'+(r['year'] or 'Year unspecified')+'</span>'+rail_award(r)+'</div><div class="entry-body"><h2 class="paper-title">'+title+'</h2><p class="venue-full">'+esc(r['venue'])+(' · '+r['year'] if r['year'] else '')+'</p>'+tags(r)
+ body+='<article class="publication-entry" '+record_attrs(r)+'><div class="entry-rail">'+venue_badge(r)+'<span class="paper-year">'+(r['year'] or 'Year unspecified')+'</span>'+rail_award(r)+'</div><div class="entry-body"><h2 class="paper-title">'+title+'</h2>'+author_line(r)+'<p class="venue-full">'+esc(r['venue'])+(' · '+r['year'] if r['year'] else '')+'</p>'+tags(r)
  body+='<div class="entry-tools">'+('<a class="paper-link" href="'+esc(r['url'])+'">Read paper '+icon('arrow')+'</a>' if r['url'] else '<span class="paper-year">Paper link not listed</span>')+'</div>'
- body+='<details class="authors"><summary>Bibliographic details</summary><p>'+esc(r['authors'])+'</p>'+'</details></div></article>'
+ body+='</div></article>'
 body+=empty()+'</section></main>'
 (OUT/'publications.html').write_text(page('Publications',body,'publications'))
 
