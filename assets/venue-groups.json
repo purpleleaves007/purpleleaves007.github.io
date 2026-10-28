@@ -1,0 +1,55 @@
+{
+  "description": "Profile-specific presentation priorities for wireless sensing, mobile systems and security. This is not an official or universal venue ranking. CCF labels remain separate.",
+  "groups": {
+    "core": {
+      "label": "Tier 1",
+      "priority": 1
+    },
+    "leading": {
+      "label": "Tier 2",
+      "priority": 2
+    },
+    "established": {
+      "label": "Tier 3",
+      "priority": 3
+    },
+    "specialist": {
+      "label": "Tier 4",
+      "priority": 4
+    },
+    "other": {
+      "label": "Tier 5",
+      "priority": 5
+    }
+  },
+  "venues": {
+    "ACM MobiCom": "core",
+    "ACM MobiSys": "core",
+    "IEEE S&P": "core",
+    "USENIX Security": "core",
+    "ACM CCS": "core",
+    "NDSS": "core",
+    "IEEE JSAC": "core",
+    "IEEE TMC": "established",
+    "IEEE TIFS": "established",
+    "IEEE TDSC": "established",
+    "NeurIPS": "leading",
+    "ACM IMWUT / UbiComp": "leading",
+    "UbiComp Adjunct": "leading",
+    "AAAI": "established",
+    "ACM TOSN": "established",
+    "ACM MM": "established",
+    "IEEE THMS": "established",
+    "IEEE TAFFC": "established",
+    "IEEE TCSVT": "established",
+    "IEEE TCCN": "specialist",
+    "IEEE IoT-J": "specialist",
+    "IEEE TIM": "specialist",
+    "IEEE TCSS": "specialist",
+    "IEEE CIM": "specialist",
+    "IEEE ICME": "specialist",
+    "IEEE BIBM": "specialist",
+    "IEEE GLOBECOM": "specialist",
+    "NIPS": "leading"
+  }
+}

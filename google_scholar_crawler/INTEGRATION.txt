@@ -1,0 +1,32 @@
+Google Scholar citation widget — integration notes
+
+Profile: Xiang Zhang / mz4NUCAAAAAJ
+
+What is ready
+- The homepage displays total citations, h-index, i10-index and annual citation bars.
+- The initial snapshot contains actual data fetched from the public Scholar profile.
+- The page checks the public google-scholar-stats branch for a newer successful snapshot.
+- The original gs_data.json remains a fallback. An older cache never replaces a newer snapshot.
+- Each annual bar can be selected to inspect its citation count. The current year is marked year to date.
+
+GitHub setup
+1. Put update_metrics.py at google_scholar_crawler/update_metrics.py in the website repository.
+2. Replace the existing .github/workflows/google_scholar_crawler.yaml with the supplied workflow of the same name. Do not keep the old force-push job running alongside it.
+3. Commit the files on the default main branch. The workflow supports a first manual run via Actions → Update Google Scholar metrics → Run workflow, and a daily run at 16:17 Asia/Shanghai.
+4. The public profile ID is preconfigured. A repository variable or existing secret named GOOGLE_SCHOLAR_ID may override it. No Scholar API key or Python dependencies are required.
+5. The job uses the repository's built-in GITHUB_TOKEN with contents:write to commit only successful metric snapshots to google-scholar-stats. If a repository policy blocks this token permission, it must be enabled for the job.
+
+Output on the google-scholar-stats branch
+- scholar_metrics.json: summary counts, annual citation data and a UTC fetch timestamp.
+- citation_history.json: one total-citation/h-index/i10-index observation per day, preserving prior days.
+- gs_data_shieldsio.json: the legacy citation-count badge.
+- Existing gs_data.json and per-paper citation data are retained. This lightweight updater refreshes author metrics, not the legacy per-paper records.
+
+Reliability and current status
+- This is a daily snapshot mechanism, not a real-time Google Scholar API.
+- Failed requests, incomplete pages or verification challenges stop the update; the previous successful snapshot remains visible with its actual date.
+- Google Scholar's annual counts are counts for each year, not cumulative totals. The current year's bar is incomplete.
+- The local design and workflow files are ready. No remote repository files, Actions settings or scheduled jobs have been changed from this chat.
+
+Official GitHub schedule documentation:
+https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#schedule

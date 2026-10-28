@@ -1,0 +1,26 @@
+Annual journal metrics updater
+
+Status
+The updater has been run against the live IEEE publisher index, its current official workbook, and LetPub's public ISSN search results. It currently covers 14 journal venues from this profile. The script uses Python's standard library plus curl; no paid API key, browser automation or Python packages are required.
+
+Sources
+1. IEEE: discover the current Excel file from https://open.ieee.org/publishing-options/ieee-title-list/ and read the Journal Impact Factor column for 12 exact publisher journal acronyms. Read the metric year from the workbook's own statement, never from its filename. The current file declares 2025 JCR data released in June 2026.
+2. ACM: attempt the publisher's annual JCR announcement first.
+3. LetPub: use the publicly visible ISSN results table for missing ACM values. Match the exact ISSN and known journal record ID, confirm the annual update banner, and read only the explicit IF field. Real-time predictions, five-year IF and CiteScore are excluded. The IMWUT record 39813 is used; the duplicate 27328 record is not used.
+
+When an official same-year publisher value is available, LetPub corroborates it. Conflicting values are retained for review instead of silently overwriting the publisher. Previous-year values are never relabeled as new values. If all sources fail, no output snapshot is replaced.
+
+Files to put in the website source repository
+- journal_metrics/update_journal_metrics.py
+- assets/journal-metrics.json (verified initial snapshot)
+- .github/workflows/journal_metrics.yaml
+- The updated .github/workflows/google_scholar_crawler.yaml uses the same concurrency group so both jobs serialize writes to the metrics branch.
+
+Schedule
+July 3 and July 17, 16:37 Asia/Shanghai, every year. The second attempt accommodates publisher update timing. The workflow also supports Run workflow and a source-file push trigger on main. It writes journal_metrics.json to the existing google-scholar-stats branch without force-pushing or touching other files.
+
+Website
+The homepage and publication list contain a static verified fallback and check the metrics branch for newer per-journal metric years. They display only the IF value, metric year and quartile where verified, with no source or grouping commentary. The metadata source URLs remain in the JSON for maintenance. The site CSS, HTML and JavaScript from the current design must be deployed together for the widget to work.
+
+Current remote status
+All files are local deliverables. The remote GitHub repository, scheduled workflows and live homepage have not been changed in this chat.

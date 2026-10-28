@@ -1,29 +1,64 @@
-name: Get Citation Data
+name: Update Google Scholar metrics
 
-on: 
- page_build: 
- schedule:
-  - cron:  '0 8 * * *'
+on:
+  workflow_dispatch:
+  schedule:
+    # 16:17 Asia/Shanghai, daily. Runs on the default branch.
+    - cron: '17 8 * * *'
+  push:
+    branches: [main]
+    paths:
+      - 'google_scholar_crawler/update_metrics.py'
+      - '.github/workflows/google_scholar_crawler.yaml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: academic-profile-data
+  cancel-in-progress: false
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
-    - uses: actions/checkout@v2
-    - name: Install Reqs
-      run: |
-        sudo apt-get install python3-setuptools
-    - name: Run
-      run: |
-        cd ./google_scholar_crawler
-        pip3 install -r requirements.txt
-        python3 main.py
-        cd ./results
-        git init
-        git config --local user.name "${GITHUB_ACTOR}"
-        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
-        git add *.json
-        git commit -m "Updated Citation Data"
-        git push "${remote_repo}" HEAD:google-scholar-stats --force
-      env: 
-        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+      - name: Check out website source
+        uses: actions/checkout@v4
+        with:
+          path: source
+      - name: Check out existing citation data, or initialize its branch
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          set -euo pipefail
+          gh auth setup-git
+          if gh api "repos/$GH_REPO/git/ref/heads/google-scholar-stats" >/dev/null 2>&1; then
+            git clone --single-branch --branch google-scholar-stats "https://github.com/$GH_REPO.git" stats
+          else
+            mkdir stats
+            git -C stats init --initial-branch=google-scholar-stats
+            git -C stats remote add origin "https://github.com/$GH_REPO.git"
+          fi
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Fetch public Scholar summary
+        env:
+          GOOGLE_SCHOLAR_ID: ${{ vars.GOOGLE_SCHOLAR_ID || secrets.GOOGLE_SCHOLAR_ID || 'mz4NUCAAAAAJ' }}
+        run: python source/google_scholar_crawler/update_metrics.py --output-dir stats
+      - name: Publish the successful snapshot
+        working-directory: stats
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add scholar_metrics.json citation_history.json gs_data_shieldsio.json
+          if git diff --cached --quiet; then
+            echo 'No metric changes to publish.'
+            exit 0
+          fi
+          git commit -m 'Update Google Scholar citation snapshot'
+          git push origin HEAD:google-scholar-stats
