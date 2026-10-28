@@ -15,7 +15,7 @@ Run `python3 tools/build_site.py` from any directory. It uses the original publi
 
 ## Automatic metrics
 
-GitHub Actions updates Google Scholar daily at approximately 16:17 Asia/Shanghai. Annual journal metrics run on July 3 and 17 at approximately 16:37 Asia/Shanghai. Scheduled runs may be delayed by GitHub. Both workflows can be run manually from Actions.
+GitHub Actions attempts a Google Scholar update daily at approximately 16:17 Asia/Shanghai. The recommended transport for hosted runners is SerpApi: set the `SERPAPI_API_KEY` repository secret once, then run the workflow. `auto` mode chooses SerpApi when the key exists and direct public HTML otherwise. A 403 from direct Scholar access requires a working transport; caching alone is not a live-update fix. See `google_scholar_crawler/INTEGRATION.txt`. Annual journal metrics run on July 3 and 17 at approximately 16:37 Asia/Shanghai. Scheduled runs may be delayed by GitHub. Both workflows can be run manually from Actions.
 
 Both jobs write to the existing `google-scholar-stats` branch using a shared concurrency group and normal pushes. The browser reads the newer validated snapshot; if a request fails, the latest verified data remains visible. Scholar and publisher websites may block automated requests; check Actions failures before changing any numbers. Never label CiteScore, five-year IF or a forecast as the annual Journal Impact Factor.
 

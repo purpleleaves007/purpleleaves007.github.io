@@ -1,32 +1,32 @@
-Google Scholar citation widget — integration notes
+Google Scholar citation synchronization
 
 Profile: Xiang Zhang / mz4NUCAAAAAJ
 
-What is ready
-- The homepage displays total citations, h-index, i10-index and annual citation bars.
-- The initial snapshot contains actual data fetched from the public Scholar profile.
-- The page checks the public google-scholar-stats branch for a newer successful snapshot.
-- The original gs_data.json remains a fallback. An older cache never replaces a newer snapshot.
-- Each annual bar can be selected to inspect its citation count. The current year is marked year to date.
+The page continues to display Google Scholar citations, h-index, i10-index and the annual citation chart. SerpApi changes the transport, not the bibliometric source. Other indexes such as OpenAlex have different coverage and are not substituted into Scholar values.
 
-GitHub setup
-1. Put update_metrics.py at google_scholar_crawler/update_metrics.py in the website repository.
-2. Replace the existing .github/workflows/google_scholar_crawler.yaml with the supplied workflow of the same name. Do not keep the old force-push job running alongside it.
-3. Commit the files on the default main branch. The workflow supports a first manual run via Actions → Update Google Scholar metrics → Run workflow, and a daily run at 16:17 Asia/Shanghai.
-4. The public profile ID is preconfigured. A repository variable or existing secret named GOOGLE_SCHOLAR_ID may override it. No Scholar API key or Python dependencies are required.
-5. The job uses the repository's built-in GITHUB_TOKEN with contents:write to commit only successful metric snapshots to google-scholar-stats. If a repository policy blocks this token permission, it must be enabled for the job.
+Recommended setup for GitHub-hosted runners
+1. Create a free SerpApi account at https://serpapi.com/users/sign_up and find your API key in the dashboard. Check the current free-plan allowance at https://serpapi.com/pricing. One daily author summary requires around 31 successful searches per month.
+2. In this repository, open Settings > Secrets and variables > Actions > New repository secret. Name it SERPAPI_API_KEY and paste the key as the secret value. Do not put the key in source files, chat messages, workflow text, command-line arguments or repository variables.
+3. Run Actions > Update Google Scholar metrics > Run workflow. The default transport mode is auto: it chooses SerpApi if the secret is set, otherwise it tries one ordinary public Scholar request. A repository variable GOOGLE_SCHOLAR_PROVIDER may explicitly select serpapi or direct.
+4. Verify the run succeeded and google-scholar-stats/scholar_metrics.json contains the correct scholar_id, source=Google Scholar, retrieved_via=SerpApi and the observation timestamp returned by the provider. The homepage picks up a newer validated JSON without rebuilding the site.
 
-Output on the google-scholar-stats branch
-- scholar_metrics.json: summary counts, annual citation data and a UTC fetch timestamp.
-- citation_history.json: one total-citation/h-index/i10-index observation per day, preserving prior days.
-- gs_data_shieldsio.json: the legacy citation-count badge.
-- Existing gs_data.json and per-paper citation data are retained. This lightweight updater refreshes author metrics, not the legacy per-paper records.
+Schedule and publication
+- Daily at approximately 16:17 Asia/Shanghai; GitHub may delay scheduled runs.
+- The existing GITHUB_TOKEN (contents:write) publishes only successful data using a normal push, shared concurrency with journal updates, and no force push.
+- scholar_metrics.json contains metrics; citation_history.json retains one observed snapshot per date; gs_data_shieldsio.json preserves the legacy badge.
+- Existing gs_data.json and per-paper records are retained.
 
-Reliability and current status
-- This is a daily snapshot mechanism, not a real-time Google Scholar API.
-- Failed requests, incomplete pages or verification challenges stop the update; the previous successful snapshot remains visible with its actual date.
-- Google Scholar's annual counts are counts for each year, not cumulative totals. The current year's bar is incomplete.
-- The local design and workflow files are ready. No remote repository files, Actions settings or scheduled jobs have been changed from this chat.
+Data and failure handling
+- Total citations come from cited_by.table, not the sum of the first page of papers.
+- Annual bars come from cited_by.graph, not publication-year counts.
+- Author ID and Scholar profile URL must both match the requested profile.
+- API cached responses retain their actual observation time. An older response never overwrites a newer snapshot or history.
+- A missing/invalid key, quota error, HTTP 403/429, malformed data or identity mismatch fails the update and leaves existing files intact. Raw credential-bearing URLs and response bodies are not printed.
+- Without a SerpApi secret, a GitHub-hosted direct request may still be refused by Scholar. The integration is not activated merely by deploying its code.
 
-Official GitHub schedule documentation:
-https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#schedule
+Local or offline import
+- python google_scholar_crawler/update_metrics.py --html-file profile.html --output-dir results
+- python google_scholar_crawler/update_metrics.py --json-file serpapi-result.json --output-dir results
+These parse already obtained author summaries; they do not relabel another citation index as Google Scholar.
+
+Transport reference: https://serpapi.com/google-scholar-author-api
