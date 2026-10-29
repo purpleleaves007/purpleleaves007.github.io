@@ -60,7 +60,12 @@ for index,li in enumerate(confs+journals):
 
 JOURNAL_METRICS=json.loads((OUT/'assets/journal-metrics.json').read_text())['journals']
 VENUE_CONFIG=json.loads((OUT/'assets/venue-groups.json').read_text())
+VENUE_RANKINGS=json.loads((OUT/'assets/venue-rankings.json').read_text())
 for record in records:
+ core=VENUE_RANKINGS['conferences'].get(record['short'],{}) if record['kind']=='Conference' else {}
+ record['core_rank']=core.get('rank','')
+ record['core_edition']=VENUE_RANKINGS['edition'] if core else ''
+ record['core_source_url']=core.get('source_url','')
  record['journal_metrics']=JOURNAL_METRICS.get(record['short']) if record['kind']=='Journal' else None
  record['venue_group']=VENUE_CONFIG['venues'].get(record['short'],'other')
  record['venue_group_label']=VENUE_CONFIG['groups'].get(record['venue_group'],{}).get('label','Unclassified')
@@ -90,6 +95,7 @@ def rail_award(r):
 def tags(r,selected=False):
  t=f'<span class="tag tag-type">{r["kind"]}</span><span class="tag tag-format">{r["contribution_format"]}</span>'
  if r['grade']:t+=f'<span class="tag tag-grade">{r["grade"]}</span>'
+ if r['core_rank']:t+=f'<span class="tag tag-core" title="{esc(r["core_edition"])} conference venue rating">CORE {esc(r["core_rank"])}</span>'
  metric=r.get('journal_metrics')
  if metric:
   t+=f'<span class="tag tag-neutral" data-jif-value>IF {metric["jif"]:.1f} · {metric["metric_year"]}</span>'

@@ -11,6 +11,7 @@ Run `python3 tools/build_site.py` from any directory. It uses the original publi
 - Navigation research icon: `assets/purpleleaves-maple.png`
 - Browser tab icons: `favicon.ico`, `assets/favicon-purpleleaves-32.png`; Apple touch icon: `assets/apple-touch-icon-purpleleaves.png`
 - Venue colors and assignments: `assets/venue-groups.json`
+- Official conference CORE ranks: `assets/venue-rankings.json` (ICORE2026, verified 2026-10-29); keep the edition and per-venue source URLs. Only independently verified conference venues receive CORE badges. Demo/short-paper format labels remain separate. Journal CCF labels come from `content/profile-source.html`.
 - Verified static metric fallbacks: `assets/scholar-metrics.json`, `assets/journal-metrics.json`
 
 ## Automatic metrics

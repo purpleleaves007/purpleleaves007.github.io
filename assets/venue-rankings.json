@@ -1,0 +1,44 @@
+{
+  "edition": "ICORE2026",
+  "verified_on": "2026-10-29",
+  "portal": "https://portal.core.edu.au/conf-ranks/",
+  "conferences": {
+    "ACM MobiCom": {
+      "rank": "A*",
+      "source_url": "https://portal.core.edu.au/conf-ranks/27/"
+    },
+    "ACM MM": {
+      "rank": "A*",
+      "source_url": "https://portal.core.edu.au/conf-ranks/37/"
+    },
+    "NeurIPS": {
+      "rank": "A*",
+      "source_url": "https://portal.core.edu.au/conf-ranks/98/"
+    },
+    "AAAI": {
+      "rank": "A*",
+      "source_url": "https://portal.core.edu.au/conf-ranks/?by=acronym&search=AAAI"
+    },
+    "USENIX Security": {
+      "rank": "A*",
+      "source_url": "https://portal.core.edu.au/conf-ranks/1841/"
+    },
+    "IEEE S&P": {
+      "rank": "A*",
+      "source_url": "https://portal.core.edu.au/conf-ranks/750/"
+    },
+    "IEEE ICME": {
+      "rank": "A",
+      "source_url": "https://portal.core.edu.au/conf-ranks/664/"
+    },
+    "IEEE GLOBECOM": {
+      "rank": "B",
+      "source_url": "https://portal.core.edu.au/conf-ranks/2030/"
+    }
+  },
+  "notes": {
+    "scope": "Current conference venue rating; contribution formats such as Demo and Short Paper remain separately identified. Journals do not receive conference ratings.",
+    "UbiComp Adjunct": "No independently verified CORE rating; do not inherit the main conference rating.",
+    "IEEE BIBM": "No independently verified CORE rating available."
+  }
+}
